@@ -1,2 +1,2 @@
 # daylanhomoop
-group oop of Nam, Thang, 
+group oop of Nam, Thang, Quyen.
