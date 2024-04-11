@@ -27,7 +27,7 @@ public class DictionaryManagement extends Dictionary {
         }
     }
     public void insertFromFile() throws IOException {
-        try (BufferedReader br = new BufferedReader(new FileReader("dictionary.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("D:\\btOOP\\demoDIC\\src\\main\\java\\org\\example\\demodic\\dictionaries.txt"))) {
             TreeMap<String, Word> dictionary = super.getDictionary();
             String line;
             while ((line = br.readLine()) != null) {
