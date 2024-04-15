@@ -26,7 +26,7 @@ public class DictionaryCommandLine extends DictionaryManagement {
     }
 
     public void dictionarySearcher(String target) throws IOException {
-        Path path = Path.of("D:\\gitproject\\daylanhomoop\\demoDIC\\src\\main\\java\\org\\example\\demodic\\E_V.txt");
+        Path path = Path.of("D:\\BTapJava\\OOP\\OOPELA\\daylanhomoop\\demoDIC\\src\\main\\java\\org\\example\\demodic\\E_V.txt");
         List<String> data_list = Files.readAllLines(path);
         boolean check = false;
         System.out.format("%-15s %-15s \n", "ENGLISH", "VIETNAMESE");
@@ -65,7 +65,7 @@ public class DictionaryCommandLine extends DictionaryManagement {
         System.out.println("[8]\tImport from file");
         System.out.println("[9]\tExport to file");
         while (true) {
-            System.out.println("Your action: ");
+            System.out.print("Your action: ");
             int action = sc.nextInt();
             sc.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
             switch (action) {
