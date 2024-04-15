@@ -24,11 +24,11 @@ public class DictionaryManagement extends Dictionary {
             System.out.print("Enter the Vietnamese meaning: ");
             newWord.setWord_explain(scanner.nextLine());
 
-            dictionary.put(newWord.getWord_target(), newWord); // Add new Word to the dictionary
+            super.addWordToDictionary(newWord.getWord_target(), newWord); // Add new Word to the dictionary
         }
     }
     public void insertFromFile() throws IOException {
-        try (BufferedReader br = new BufferedReader(new FileReader("D:\\BTapJava\\OOP\\OOPELA\\daylanhomoop\\demoDIC\\src\\main\\java\\org\\example\\demodic\\dictionaries.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(filePathDictionaries))) {
             TreeMap<String, Word> dictionary = super.getDictionary();
             String myString;
             while ((myString = br.readLine()) != null) {
@@ -56,7 +56,7 @@ public class DictionaryManagement extends Dictionary {
                 }
                 if (!word_target.equals("") && !word_explain.equals("")) { // Ensure there are at least two parts for word and explanation
                     Word newWord = new Word(word_target, word_explain);
-                    dictionary.put(word_target, newWord); // Add new Word to the dictionary
+                    super.addWordToDictionary(word_target, newWord); // Add new Word to the dictionary
                 }
             }
             br.close();
@@ -106,7 +106,7 @@ public class DictionaryManagement extends Dictionary {
     }
 
     public void dictionaryExportToFile() throws IOException {
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter("D:\\BTapJava\\OOP\\OOPELA\\daylanhomoop\\demoDIC\\src\\main\\java\\org\\example\\demodic\\E_V.txt"))) {
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter(filePathE_V))) {
             String newContent = "";
             TreeMap<String, Word> dictionary = super.getDictionary();
             Set<String> keyWT = dictionary.keySet();

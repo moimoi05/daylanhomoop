@@ -10,7 +10,6 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class DictionaryCommandLine extends DictionaryManagement {
-
     public void showAllWords() throws IOException {
         System.out.printf("%-6s | %-15s | %-20s \n", "NO", "ENGLISH", "VIETNAMESE");
         int i = 1;
@@ -26,7 +25,7 @@ public class DictionaryCommandLine extends DictionaryManagement {
     }
 
     public void dictionarySearcher(String target) throws IOException {
-        Path path = Path.of("D:\\BTapJava\\OOP\\OOPELA\\daylanhomoop\\demoDIC\\src\\main\\java\\org\\example\\demodic\\E_V.txt");
+        Path path = Path.of(filePathE_V);
         List<String> data_list = Files.readAllLines(path);
         boolean check = false;
         System.out.format("%-15s %-15s \n", "ENGLISH", "VIETNAMESE");
