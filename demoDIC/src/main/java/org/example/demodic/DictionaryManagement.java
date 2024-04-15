@@ -1,10 +1,8 @@
 package org.example.demodic;
 
 import java.io.*;
-import java.util.List;
-import java.util.Map;
-import java.util.Scanner;
-import java.util.TreeMap;
+import java.net.URISyntaxException;
+import java.util.*;
 
 public class DictionaryManagement extends Dictionary {
     public void insertFromCommandline() throws IOException {
@@ -23,11 +21,13 @@ public class DictionaryManagement extends Dictionary {
             System.out.print("Enter the Vietnamese meaning: ");
             newWord.setWord_explain(scanner.nextLine());
 
-            dictionary.put(newWord.getWord_target(), newWord); // Add new Word to the dictionary
+            addWordToDictionary(newWord.getWord_target(), newWord); // Add new Word to the dictionary
         }
     }
-    public void insertFromFile() throws IOException {
-        try (BufferedReader br = new BufferedReader(new FileReader("D:\\btOOP\\demoDIC\\src\\main\\java\\org\\example\\demodic\\dictionaries.txt"))) {
+
+    public void insertFromFile() throws IOException, URISyntaxException {
+        File file = new File(Objects.requireNonNull(getClass().getClassLoader().getResource("org/example/demodic/dictionaries.txt")).toURI());
+        try (BufferedReader br = new BufferedReader(new FileReader(file))) {
             TreeMap<String, Word> dictionary = super.getDictionary();
             String line;
             while ((line = br.readLine()) != null) {
@@ -39,6 +39,7 @@ public class DictionaryManagement extends Dictionary {
             }
         }
     }
+
     public void dictionaryLookup() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the English word to look up: ");
@@ -51,6 +52,7 @@ public class DictionaryManagement extends Dictionary {
             System.out.println("Word not found in the dictionary.");
         }
     }
+
     public void fixWord() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the English word to edit: ");
@@ -68,6 +70,7 @@ public class DictionaryManagement extends Dictionary {
             System.out.println("Word not found in the dictionary.");
         }
     }
+
     public void removeWord() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the English word to delete: ");
