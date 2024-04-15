@@ -1,0 +1,7 @@
+hello   Chao
+goodbye Cut
+good    Hang hoa
+train   Tau
+transport   Phuong tien
+triangle    Tam giac
+trend   Xu huong

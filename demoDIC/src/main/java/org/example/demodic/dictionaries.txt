@@ -1,1 +1,2 @@
-Hello   Xin chao
+hello   Xin chao
+goodbye Tam biet
