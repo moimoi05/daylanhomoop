@@ -99,6 +99,7 @@ public class DictionaryCommandLine extends DictionaryManagement {
                     super.insertFromFile();
                     break;
                 case 9:
+                    super.dictionaryExportToFile();
                     System.out.println("Successfully exported to file 'E_V.txt'!");
                     break;
                 default:
