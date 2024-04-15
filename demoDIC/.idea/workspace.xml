@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bce1dc5b-0229-47d5-88dd-78054892db18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/demodic/DictionaryCommandLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/demodic/DictionaryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/demodic/DictionaryManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/demodic/Public.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/demodic/Trie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/demodic/main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="bce1dc5b-0229-47d5-88dd-78054892db18" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,10 +39,10 @@
   "keyToString": {
     "Application.DictionaryCommandLine.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Nam",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/gitproject/daylanhomoop/demoDIC"
+    "last_opened_file_path": "D:/gitproject/daylanhomoop"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

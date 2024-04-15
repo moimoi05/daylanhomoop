@@ -2,6 +2,8 @@ package org.example.demodic;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -23,15 +25,31 @@ public class DictionaryCommandLine extends DictionaryManagement {
         showAllWords();
     }
 
-    public List<String> dictionarySearcher(String target) {
-        List<String> list = new ArrayList<>();
-        for (Map.Entry<String, Word> entry : super.getDictionary().entrySet()) {
-            if (entry.getValue().getWord_target().contains(target)) {
-                list.add(entry.getValue().getWord_target());
+    public void dictionarySearcher(String target) throws IOException {
+        Path path = Path.of("D:\\gitproject\\daylanhomoop\\demoDIC\\src\\main\\java\\org\\example\\demodic\\E_V.txt");
+        List<String> data_list = Files.readAllLines(path);
+        boolean check = false;
+        System.out.format("%-15s %-15s \n", "ENGLISH", "VIETNAMESE");
+        for (String data : data_list) {
+            String word_target = "";
+            String meaning = "";
+            for (int i = 0; i < data.length(); i++) {
+                if (data.charAt(i) == ' ') {
+                    word_target = data.substring(0, i).trim();
+                    meaning = data.substring(i + 1).trim();
+                    break;
+                }
+            }
+            if (word_target.contains(target)) {
+                System.out.format("%-15s %-15s \n", word_target, meaning);
+                check = true;
             }
         }
-        return list;
+        if (!check) {
+            System.out.println("My dictionary doesn't have this word :(");
+        }
     }
+
 
     public void dictionaryAdvance() throws IOException, URISyntaxException {
         Scanner sc = new Scanner(System.in);
