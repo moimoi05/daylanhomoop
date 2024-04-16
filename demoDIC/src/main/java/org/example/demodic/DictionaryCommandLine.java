@@ -65,7 +65,14 @@ public class DictionaryCommandLine extends DictionaryManagement {
             sc.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
             switch (action) {
                 case 0:
-                    System.out.println("See you next time!");
+                    System.out.println("Do you want to save before exit?");
+                    System.out.print("Enter your choice [Y/N]: ");
+                    String choice = sc.nextLine().trim();
+                    if (choice.equals("Y")) {
+                        super.dictionaryExportToFile();
+                        System.out.println("Successfully saved!");
+                    }
+                    System.out.println("See You Next Time!");
                     return;
                 case 1:
                     super.insertFromCommandline();
