@@ -12,14 +12,13 @@ import java.util.Scanner;
 
 public class DictionaryCommandLine extends DictionaryManagement {
     public DictionaryCommandLine() throws IOException {
-
     }
 
     public void showAllWords() throws IOException {
         System.out.printf("%-6s | %-15s | %-20s \n", "NO", "ENGLISH", "VIETNAMESE");
         int i = 1;
-        for (Map.Entry<String, Word> entry : dic.getDictionary().entrySet()) {
-            if (entry.getValue().getWord_explain().equals("")) {
+        for (Map.Entry<String, Word> entry : super.getDictionary().entrySet()) {
+            if (entry.getValue().getWord_explain().isEmpty()) {
                 continue;
             }
             System.out.printf("%-6d | %-15s | %-20s \n", i++, entry.getValue().getWord_target(),
@@ -35,7 +34,7 @@ public class DictionaryCommandLine extends DictionaryManagement {
     public void dictionarySearcher(String target) throws IOException {
         System.out.printf("%-10s | %-15s | %-20s \n", "NO", "ENGLISH", "VIETNAMESE");
         int i = 1;
-        for (Map.Entry<String, Word> entry : dic.getDictionary().entrySet()) {
+        for (Map.Entry<String, Word> entry : super.getDictionary().entrySet()) {
             if (entry.getValue().getWord_explain().isEmpty()) {
                 continue;
             }
@@ -92,7 +91,9 @@ public class DictionaryCommandLine extends DictionaryManagement {
                     System.out.println("Coming soon . . .");
                     break;
                 case 8:
+                    System.out.println("Use 'dictionary.txt' to import.");
                     super.insertFromFile();
+                    System.out.println("Successfully imported from file 'dictionary.txt'!");
                     break;
                 case 9:
                     super.dictionaryExportToFile();
