@@ -3,7 +3,7 @@ package org.example.demodic;
 import java.io.*;
 import java.util.*;
 
-public class DictionaryManagement extends MyDictionary{
+public class DictionaryManagement extends MyDictionary {
 
     public DictionaryManagement() throws IOException {
     }
@@ -26,14 +26,15 @@ public class DictionaryManagement extends MyDictionary{
             super.addWordToDictionary(newWord.getWord_target(), newWord); // Add new Word to the dictionary
         }
     }
+
     public void insertFromFile() throws IOException {
-        try (BufferedReader br = new BufferedReader(new FileReader(filePathDictionaries))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(MyDictionary.filePathDictionaries))) {
             String myString;
             while ((myString = br.readLine()) != null) {
                 int isCharacterOfWordExplain = -1;
                 String word_target = "";
                 String word_explain = "";
-                for (int index=0 ; index<myString.length() ; ++index) {
+                for (int index = 0; index < myString.length(); ++index) {
                     if (myString.charAt(index) == ' ') {
                         if (isCharacterOfWordExplain == -1) {
                             isCharacterOfWordExplain++;
@@ -60,6 +61,7 @@ public class DictionaryManagement extends MyDictionary{
             br.close();
         }
     }
+
     public void dictionaryLookup() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the English word to look up: ");
@@ -72,6 +74,7 @@ public class DictionaryManagement extends MyDictionary{
             System.out.println("Word not found in the dictionary.");
         }
     }
+
     public void fixWord() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the English word to edit: ");
@@ -104,7 +107,7 @@ public class DictionaryManagement extends MyDictionary{
     }
 
     public void dictionaryExportToFile() throws IOException {
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter(filePathE_V))) {
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter(MyDictionary.filePathE_V))) {
             String newContent = "";
             TreeMap<String, Word> dictionary = super.getDictionary();
             Set<String> keyWT = dictionary.keySet();
