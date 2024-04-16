@@ -5,15 +5,23 @@ import java.net.URISyntaxException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.Dictionary;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
 public class DictionaryCommandLine extends DictionaryManagement {
+    public DictionaryCommandLine() throws IOException {
+
+    }
+
     public void showAllWords() throws IOException {
         System.out.printf("%-6s | %-15s | %-20s \n", "NO", "ENGLISH", "VIETNAMESE");
         int i = 1;
-        for (Map.Entry<String, Word> entry : super.getDictionary().entrySet()) {
+        for (Map.Entry<String, Word> entry : dic.getDictionary().entrySet()) {
+            if (entry.getValue().getWord_explain().equals("")) {
+                continue;
+            }
             System.out.printf("%-6d | %-15s | %-20s \n", i++, entry.getValue().getWord_target(),
                     entry.getValue().getWord_explain());
         }
@@ -25,27 +33,16 @@ public class DictionaryCommandLine extends DictionaryManagement {
     }
 
     public void dictionarySearcher(String target) throws IOException {
-        Path path = Path.of(filePathE_V);
-        List<String> data_list = Files.readAllLines(path);
-        boolean check = false;
-        System.out.format("%-15s %-15s \n", "ENGLISH", "VIETNAMESE");
-        for (String data : data_list) {
-            String word_target = "";
-            String meaning = "";
-            for (int i = 0; i < data.length(); i++) {
-                if (data.charAt(i) == ' ') {
-                    word_target = data.substring(0, i).trim();
-                    meaning = data.substring(i + 1).trim();
-                    break;
-                }
+        System.out.printf("%-10s | %-15s | %-20s \n", "NO", "ENGLISH", "VIETNAMESE");
+        int i = 1;
+        for (Map.Entry<String, Word> entry : dic.getDictionary().entrySet()) {
+            if (entry.getValue().getWord_explain().isEmpty()) {
+                continue;
             }
-            if (word_target.contains(target)) {
-                System.out.format("%-15s %-15s \n", word_target, meaning);
-                check = true;
+            if (entry.getValue().getWord_target().contains(target)) {
+                System.out.printf("%-10d | %-15s | %-20s \n", i++, entry.getValue().getWord_target(),
+                        entry.getValue().getWord_explain());
             }
-        }
-        if (!check) {
-            System.out.println("My dictionary doesn't have this word :(");
         }
     }
 

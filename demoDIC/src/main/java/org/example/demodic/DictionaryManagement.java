@@ -1,20 +1,20 @@
 package org.example.demodic;
 
 import java.io.*;
-import java.util.List;
-import java.util.Map;
-import java.util.Scanner;
-import java.util.TreeMap;
-import java.util.Set;
+import java.util.*;
 
-public class DictionaryManagement extends Dictionary {
+public class DictionaryManagement{
+    MyDictionary dic;
+    public DictionaryManagement() throws IOException {
+        dic = new MyDictionary();
+    }
+
     public void insertFromCommandline() throws IOException {
         int numOfWords;
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of words to insert: ");
         numOfWords = scanner.nextInt();
-        scanner.nextLine();
-        TreeMap<String, Word> dictionary = super.getDictionary(); // Access the dictionary from the parent class
+        scanner.nextLine();// Access the dictionary from the parent class
         for (int i = 0; i < numOfWords; i++) {
             Word newWord = new Word();
 
@@ -24,12 +24,11 @@ public class DictionaryManagement extends Dictionary {
             System.out.print("Enter the Vietnamese meaning: ");
             newWord.setWord_explain(scanner.nextLine());
 
-            super.addWordToDictionary(newWord.getWord_target(), newWord); // Add new Word to the dictionary
+            dic.addWordToDictionary(newWord.getWord_target(), newWord); // Add new Word to the dictionary
         }
     }
     public void insertFromFile() throws IOException {
-        try (BufferedReader br = new BufferedReader(new FileReader(filePathDictionaries))) {
-            TreeMap<String, Word> dictionary = super.getDictionary();
+        try (BufferedReader br = new BufferedReader(new FileReader(MyDictionary.filePathDictionaries))) {
             String myString;
             while ((myString = br.readLine()) != null) {
                 int isCharacterOfWordExplain = -1;
@@ -54,9 +53,9 @@ public class DictionaryManagement extends Dictionary {
                         }
                     }
                 }
-                if (!word_target.equals("") && !word_explain.equals("")) { // Ensure there are at least two parts for word and explanation
+                if (!word_target.isEmpty() && !word_explain.isEmpty()) { // Ensure there are at least two parts for word and explanation
                     Word newWord = new Word(word_target, word_explain);
-                    super.addWordToDictionary(word_target, newWord); // Add new Word to the dictionary
+                    dic.addWordToDictionary(word_target, newWord); // Add new Word to the dictionary
                 }
             }
             br.close();
@@ -67,7 +66,7 @@ public class DictionaryManagement extends Dictionary {
         System.out.print("Enter the English word to look up: ");
         String word_target = sc.nextLine().toLowerCase().trim();
 
-        Word word = super.getDictionary().get(word_target);
+        Word word = dic.getDictionary().get(word_target);
         if (word != null) {
             System.out.println(word.getWord_explain());
         } else {
@@ -80,12 +79,12 @@ public class DictionaryManagement extends Dictionary {
         String word_target = scanner.nextLine().toLowerCase().trim();
 
         // Check if the word exists
-        if (getDictionary().containsKey(word_target)) {
+        if (dic.getDictionary().containsKey(word_target)) {
             System.out.print("Enter the new Vietnamese meaning: ");
             String word_explain = scanner.nextLine().trim();
 
             // Update the word's meaning
-            getDictionary().get(word_target).setWord_explain(word_explain);
+            dic.getDictionary().get(word_target).setWord_explain(word_explain);
             System.out.println("Word updated successfully.");
         } else {
             System.out.println("Word not found in the dictionary.");
@@ -98,7 +97,7 @@ public class DictionaryManagement extends Dictionary {
         String word_target = scanner.nextLine().toLowerCase().trim();
 
         // Remove the word if it exists
-        if (getDictionary().remove(word_target) != null) {
+        if (dic.getDictionary().remove(word_target) != null) {
             System.out.println("Word removed successfully.");
         } else {
             System.out.println("Word not found in the dictionary.");
@@ -106,9 +105,9 @@ public class DictionaryManagement extends Dictionary {
     }
 
     public void dictionaryExportToFile() throws IOException {
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter(filePathE_V))) {
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter(MyDictionary.filePathE_V))) {
             String newContent = "";
-            TreeMap<String, Word> dictionary = super.getDictionary();
+            TreeMap<String, Word> dictionary = dic.getDictionary();
             Set<String> keyWT = dictionary.keySet();
             for (String word_target : keyWT) {
                 Word word = dictionary.get(word_target);
