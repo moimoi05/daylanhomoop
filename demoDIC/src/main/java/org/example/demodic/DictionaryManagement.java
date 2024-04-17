@@ -120,4 +120,30 @@ public class DictionaryManagement extends MyDictionary {
             bw.close();
         }
     }
+    public void saveWordsToFile() throws IOException {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the English word to look up & save: ");
+        String word_target = sc.nextLine().toLowerCase().trim();
+
+        Word word = super.getDictionary().get(word_target);
+        if (word == null) {
+            System.out.println("Word not found in the dictionary.");
+            return;  // Exit the method if no word is found
+        }
+
+        System.out.println(word.getWord_explain());
+
+        // Prepare the content to write to the file
+        String newContent = word.getWord_target() + "\t" + word.getWord_explain() + "\n";
+
+        // Write to the file using try-with-resources to ensure the writer is closed after the write operation
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter(filePathSaveWord, true))) { // true to append, false or omit for overwrite
+            bw.write(newContent);
+            System.out.println("Word saved successfully in saveWord.txt.");
+        } catch (IOException e) {
+            System.out.println("Unable to write to file: " + e.getMessage());
+            throw e; // Rethrow the exception after logging or handling it
+        }
+    }
+
 }

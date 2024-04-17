@@ -49,16 +49,17 @@ public class DictionaryCommandLine extends DictionaryManagement {
     public void dictionaryAdvance() throws IOException, URISyntaxException {
         Scanner sc = new Scanner(System.in);
         System.out.println("Welcome to my app!");
-        System.out.println("[0]\tExit");
-        System.out.println("[1]\tAdd");
-        System.out.println("[2]\tRemove");
-        System.out.println("[3]\tUpdate");
-        System.out.println("[4]\tDisplay");
-        System.out.println("[5]\tLookup");
-        System.out.println("[6]\tSearch");
-        System.out.println("[7]\tGame");
-        System.out.println("[8]\tImport from file");
-        System.out.println("[9]\tExport to file");
+        System.out.println("[0] \tExit");
+        System.out.println("[1] \tAdd");
+        System.out.println("[2] \tRemove");
+        System.out.println("[3] \tUpdate");
+        System.out.println("[4] \tDisplay");
+        System.out.println("[5] \tLookup");
+        System.out.println("[6] \tSearch");
+        System.out.println("[7] \tGame");
+        System.out.println("[8] \tImport from file");
+        System.out.println("[9] \tExport to file");
+        System.out.println("[10] \tSave word to learn");
         while (true) {
             System.out.print("Your action: ");
             int action = sc.nextInt();
@@ -105,6 +106,9 @@ public class DictionaryCommandLine extends DictionaryManagement {
                 case 9:
                     super.dictionaryExportToFile();
                     System.out.println("Successfully exported to file 'E_V.txt'!");
+                    break;
+                case 10:
+                    saveWordsToFile();
                     break;
                 default:
                     System.out.println("Action not supported!");
