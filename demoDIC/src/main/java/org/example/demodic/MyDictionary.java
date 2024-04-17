@@ -18,6 +18,9 @@ public class MyDictionary {
         Path path = Path.of(filePathE_V);
         List<String> lines = Files.readAllLines(path);
         for (String line : lines) {
+            if (line.isEmpty()) {
+                continue;
+            }
             String target = "";
             String explain = "";
             for (int i = 0; i < line.length(); i++) {
