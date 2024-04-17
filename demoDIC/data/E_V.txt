@@ -1,802 +1,1479 @@
-April	[ˈeɪprəl] tháng tư, tháng tư
-August	[ɔːˈɡʌst] tháng Tám, tháng Tám
-Bible	[ˈbaɪbl] Kinh Thánh, Kinh Thánh
-British	[ˈbrɪtɪʃ] người Anh, người Anh
-December	[dɪˈsembə(r)]	tháng mười hai, tháng 12
-abandon	[əˈbændən] bỏ rơi, từ bỏ
-ability	[əˈbɪləti] khả năng
-able  [ˈeɪbl] có khả năng
-about [əˈbaʊt] về, xung quanh
-above	[əˈbʌv] ở trên, phía trên
-absolute	[ˈæbsəluːt] tuyệt đối, hoàn toàn
-absorb	[əbˈzɔːrb] hấp thụ, tiếp thu
-abstract	[ˈæbstrækt] trừu tượng, khái niệm
-absurd	[əbˈsɜːrd] vô lý, ngớ ngẩn
-abundance	[əˈbʌndəns] sự phong phú, dồi dào
-academic	[ˌækəˈdemɪk] học thuật, đại học
-accelerate	[əkˈseləreɪt] tăng tốc, gia tốc
-accent	[ˈæksent] giọng, dấu trọng âm
-accept	[əkˈsept] chấp nhận, đồng ý
-accessible	[əkˈsesəbl] có thể tiếp cận, dễ tiếp cận
-accompany	[əˈkʌmpəni] đi cùng, kèm theo
-accumulate	[əˈkjuːmjəleɪt] tích lũy, chất đống
-accurate	[ˈækjərət] chính xác, đúng đắn
-achieve	[əˈtʃiːv] đạt được, thu được
-acid	[ˈæsɪd] axit, chua
-acknowledge	[əkˈnɒlɪdʒ] nhận biết, thừa nhận
-acquire	[əˈkwaɪər] đạt được, thu được
-across	[əˈkrɒs] qua, ngang qua
-act	[ækt] hành động, hành vi
-action	[ˈækʃn] hành động, hành vi
-active	[ˈæktɪv] hoạt động, năng động
-actual	[ˈæktʃuəl] thực tế, thực tại
-acute	[əˈkjuːt] sắc, nhọn
-adapt	[əˈdæpt] thích nghi, điều chỉnh
-add	[æd] thêm vào, cộng vào
-address	[əˈdres] địa chỉ, địa chỉ văn bản
-adjust	[əˈdʒʌst] điều chỉnh, điều chỉnh
-administration	[ədˌmɪnɪˈstreɪʃn] quản lý, hành chính
-admit	[ədˈmɪt] thừa nhận, công nhận
-adopt	[əˈdɒpt] áp dụng, nhận làm con nuôi
-adult	[ˈædʌlt] người lớn, trưởng thành
-advance	[ədˈvɑːns] tiến bộ, tiến triển
-advantage	[ədˈvɑːntɪdʒ] ưu điểm, lợi ích
-adventure	[ədˈventʃər] cuộc phiêu lưu, mạo hiểm
-advice	[ədˈvaɪs] lời khuyên, tư vấn
-advise	[ədˈvaɪz] khuyên, tư vấn
-affect	[əˈfekt] ảnh hưởng, tác động
-afford	[əˈfɔːd] có khả năng chi trả, đủ khả năng
-afraid	[əˈfreɪd] sợ, lo lắng
-after	[ˈɑːftər] sau, sau khi
-again	[əˈɡen] lại, một lần nữa
-against	[əˈɡenst] chống lại, phản đối
-age	[eɪdʒ] tuổi, đời, thời đại
-agency	[ˈeɪdʒənsi] cơ quan, tổ chức
-agenda	[əˈdʒendə] chương trình nghị sự, chương trình công việc
-agent	[ˈeɪdʒənt] đại lý, tác nhân
-aggregate	[ˈæɡrɪɡət] tổng hợp, tổng số
-aggression	[əˈɡreʃn] sự xâm lược, hành vi hung hăng
-aggressive	[əˈɡresɪv] hung dữ, quyết đoán
-agile	[ˈædʒaɪl] nhanh nhẹn, lanh lợi
-agitate	[ˈædʒɪteɪt] kích động, làm xáo trộn
-agony	[ˈæɡəni] sự đau đớn, nỗi đau đau
-agree	[əˈɡriː] đồng ý, thỏa thuận
-agreement	[əˈɡriːmənt] sự đồng ý, thỏa thuận
-agriculture	[ˈæɡrɪkʌltʃər] nông nghiệp, nông nghiệp
-ahead	[əˈhed] phía trước, trước
-aid	[eɪd] viện trợ, giúp đỡ
-aim	[eɪm] mục tiêu, mục đích
-air	[eər] không khí, không gian
-aircraft	[ˈeəkrɑːft] máy bay, phương tiện bay
-airline	[ˈeəlaɪn] hãng hàng không, đường hàng không
-airport	[ˈeəpɔːt] sân bay, cảng hàng không
-alarm	[əˈlɑːm] báo động, cảnh báo
-album	[ˈælbəm] album, sách ảnh
-alcohol	[ˈælkəhɒl] rượu, cồn
-alert	[əˈlɜːrt] cảnh báo, đề phòng
-alien	[ˈeɪliən] người ngoại quốc, người ngoài hành tinh
-align	[əˈlaɪn] căn chỉnh, sắp xếp
-alike	[əˈlaɪk] giống nhau, tương tự
-alive	[əˈlaɪv] sống, còn sống
-all	[ɔːl] tất cả, mọi thứ
-allocate	[ˈæləkeɪt] phân bổ, phân phối
-allow	[əˈlaʊ] cho phép, cho
-ally	[ˈælaɪ] đồng minh, liên minh
-almost	[ˈɔːlməʊst] gần như, hầu hết
-alone	[əˈləʊn] một mình, đơn độc
-along	[əˈlɒŋ] dọc theo, cùng với
-already	[ɔːlˈredi] đã, đã làm
-also	[ˈɔːlsəʊ] cũng, cũng như
-alter	[ˈɔːltər] thay đổi, biến đổi
-alternative	[ɔːlˈtɜːnətɪv] lựa chọn, phương án thay thế
-although	[ɔːlˈðəʊ] mặc dù, tuy nhiên
-always	[ˈɔːlweɪz] luôn luôn, luôn
-amateur	[ˈæmətər] nghiệp dư, không chuyên nghiệp
-amazing	[əˈmeɪzɪŋ] đáng kinh ngạc, tuyệt vời
-ambassador	[æmˈbæsədər] đại sứ, sứ thần
-ambition	[æmˈbɪʃn] khát vọng, hoài bão
-ambitious	[æmˈbɪʃəs] có hoài bão, đầy tham vọng
-ambulance	[ˈæmbjələns] xe cấp cứu, xe cứu thương
-amend	[əˈmend] sửa đổi, cải chính
-amendment	[əˈmendmənt] sự sửa đổi, cải chính
-among	[əˈmʌŋ] trong số, giữa
-amount	[əˈmaʊnt] số lượng, tổng cộng
-analysis	[əˈnæləsɪs] phân tích, phân tích
-analyze	[ˈænəlaɪz] phân tích, phân tích
-ancestor	[ˈænsestər] tổ tiên, ông bà
-anchor	[ˈæŋkər] mỏ neo, neo
-ancient	[ˈeɪnʃənt] cổ đại, cổ xưa
-and	[ænd] và, cũng như
-angel	[ˈeɪndʒəl] thiên thần, thiên sứ
-anger	[ˈæŋɡər] sự tức giận, tức giận
-angle	[ˈæŋɡəl] góc, cái góc
-angry	[ˈæŋɡri] tức giận, giận dữ
-animal	[ˈænɪməl] động vật, loài động vật
-ankle	[ˈæŋkl] mắt cá chân, mắt cá chân
-announce	[əˈnaʊns] thông báo, tuyên bố
-announcement	[əˈnaʊnsmənt] thông báo, tuyên bố
-annual	[ˈænjuəl] hàng năm, mỗi năm
-another	[əˈnʌðər] khác, một cái khác
-answer	[ˈɑːnsər] câu trả lời, trả lời
-anticipate	[ænˈtɪsɪpeɪt] dự đoán, dự đoán
-anxiety	[æŋˈzaɪəti] lo lắng, lo lắng
-anxious	[ˈæŋkʃəs] lo lắng, lo lắng
-any	[ˈeni] bất kỳ, mọi
-anybody	[ˈeniˌbɒdi] bất kỳ ai, ai đó
-anyhow	[ˈeniˌhaʊ] bất kỳ cách nào, dù sao đi nữa
-anyone	[ˈeniˌwʌn] bất kỳ ai, ai đó
-anything	[ˈeniˌθɪŋ] bất cứ điều gì, mọi thứ
-anyway	[ˈeniˌweɪ] dù sao đi nữa, bất cứ cách nào
-anywhere	[ˈeniˌweər] bất cứ nơi đâu, ở bất cứ đâu
-apart	[əˈpɑːt] riêng rẽ, cách xa
-apartment	[əˈpɑːtmənt] căn hộ, chung cư
-apologize	[əˈpɒlədʒaɪz] xin lỗi, tạ lỗi
-apparent	[əˈpærənt] rõ ràng, dễ thấy
-appeal	[əˈpiːl] kêu gọi, khẩn cầu
-appear	[əˈpɪər] xuất hiện, trở nên rõ ràng
-appearance	[əˈpɪərəns] sự xuất hiện, bề ngoài
-appendix	[əˈpendɪks] phụ lục, phụ trợ
-appetite	[ˈæpɪtaɪt] khẩu vị, sự ngon miệng
-apple	[ˈæpl] quả táo, táo
-application	[ˌæplɪˈkeɪʃn] ứng dụng, xin
-apply	[əˈplaɪ] áp dụng, nộp đơn
-appoint	[əˈpɔɪnt] bổ nhiệm, chỉ định
-appointment	[əˈpɔɪntmənt] cuộc hẹn, bổ nhiệm
-appreciate	[əˈpriːʃieɪt] đánh giá cao, biết ơn
-approach	[əˈprəʊtʃ] tiếp cận, tiếp cận
-appropriate	[əˈprəʊpriət] phù hợp, thích đáng
-approval	[əˈpruːvəl] sự chấp thuận, sự tán thành
-approve	[əˈpruːv] phê duyệt, chấp thuận
-approximately	[əˈprɒksɪmətli] khoảng, xấp xỉ
-architect	[ˈɑːrkɪtekt] kiến trúc sư, kiến trúc sư
-architecture	[ˈɑːrkɪtektʃər] kiến trúc, kiến trúc
-area	[ˈeəriə] khu vực, diện tích
-argue	[ˈɑːɡjuː] tranh luận, tranh cãi
-argument	[ˈɑːɡjəmənt] cuộc tranh luận, lý do
-arise	[əˈraɪz] nảy ra, xuất hiện
-arm	[ɑːm] cánh tay, vũ khí
-armed	[ɑːmd] vũ trang, có vũ khí
-army	[ˈɑːrmi] quân đội, quân đội
-around	[əˈraʊnd] xung quanh, vòng quanh
-arrange	[əˈreɪndʒ] sắp xếp, sắp đặt
-arrangement	[əˈreɪndʒmənt] sự sắp xếp, sự sắp đặt
-arrest	[əˈrest] bắt giữ, bắt giữ
-arrival	[əˈraɪvəl] sự đến, sự đến
-arrive	[əˈraɪv] đến, tới
-arrow	[ˈærəʊ] mũi tên, mũi tên
-art	[ɑːt] nghệ thuật, hội họa
-article	[ˈɑːtɪkl] bài báo, bài viết
-artificial	[ˌɑːtɪˈfɪʃl] nhân tạo, giả
-artist	[ˈɑːtɪst] nghệ sĩ, họa sĩ
-artistic	[ɑːrˈtɪstɪk] nghệ thuật, có nghệ thuật
-as	[əz] như, khi
-ash	[æʃ] tro, tro
-ashamed	[əˈʃeɪmd] xấu hổ, hổ thẹn
-aside	[əˈsaɪd] sang một bên, ngoài ra
-ask	[ɑːsk] hỏi, yêu cầu
-asleep	[əˈsliːp] ngủ, đang ngủ
-aspect	[ˈæspekt] khía cạnh, mặt
-assemble	[əˈsembl] tập hợp, lắp ráp
-assembly	[əˈsembli] cuộc họp, buổi họp
-assert	[əˈsɜːt] khẳng định, tuyên bố
-assessment	[əˈsesmənt] đánh giá, ước lượng
-asset	[ˈæset] tài sản, tài sản
-assign	[əˈsaɪn] giao, phân công
-assignment	[əˈsaɪnmənt] sự giao việc, sự phân công
-assist	[əˈsɪst] giúp đỡ, hỗ trợ
-assistance	[əˈsɪstəns] sự giúp đỡ, sự hỗ trợ
-assistant	[əˈsɪstənt] trợ lý, trợ tá
-associate	[əˈsəʊʃieɪt] kết hợp, liên kết
-association	[əˌsəʊsiˈeɪʃn] sự kết hợp, sự liên kết
-assume	[əˈsjuːm] giả định, cho rằng
-assumption	[əˈsʌmpʃn] giả định, giả thiết
-assure	[əˈʃʊər] đảm bảo, cam đoan
-at	[æt] tại, ở
-athlete	[ˈæθliːt] vận động viên, người thể thao
-athletic	[æθˈletɪk] thuộc về thể thao, mạnh mẽ
-atmosphere	[ˈætməsfɪər] không khí, bầu không khí
-atom	[ˈætəm] nguyên tử, nguyên tử
-attach	[əˈtætʃ] đính kèm, gắn
-attack	[əˈtæk] tấn công, cuộc tấn công
-attempt	[əˈtempt] cố gắng, thử
-attend	[əˈtend] tham dự, dự
-attention	[əˈtenʃn] sự chú ý, chú ý
-attitude	[ˈætɪtjuːd] thái độ, thái độ
-attorney	[əˈtɜːrni] luật sư, luật sư
-attract	[əˈtrækt] thu hút, hấp dẫn
-attraction	[əˈtrækʃn] sự thu hút, điểm thu hút
-attractive	[əˈtræktɪv] hấp dẫn, lôi cuốn
-attribute	[ˈætrɪbjuːt] thuộc tính, đặc điểm
-auction	[ˈɔːkʃn] đấu giá, bán đấu giá
-audience	[ˈɔːdiəns] khán giả, đám đông
-audit	[ˈɔːdɪt] kiểm toán, kiểm tra
-aunt	[ɑːnt] cô, dì
-author	[ˈɔːθər] tác giả, nhà văn
-authority	[ɔːˈθɒrəti] quyền lực, cơ quan
-authorize	[ˈɔːθəraɪz] ủy quyền, cho phép
-auto	[ˈɔːtəʊ] tự động, ô tô
-automatic	[ˌɔːtəˈmætɪk] tự động, tự động
-automatically	[ˌɔːtəˈmætɪkli] tự động, tự động
-automobile	[ˈɔːtəməbiːl] ô tô, xe hơi
-autonomy	[ɔːˈtɒnəmi] tự trị, tự chủ
-availability	[əˌveɪləˈbɪləti] sự có sẵn, khả dụng
-available	[əˈveɪləbl] có sẵn, có thể sử dụng
-average	[ˈævərɪdʒ] trung bình, trung bình
-avoid	[əˈvɔɪd] tránh, tránh né
-await	[əˈweɪt] đợi, đợi
-awake	[əˈweɪk] tỉnh, thức
-award	[əˈwɔːd] giải thưởng, trao giải
-aware	[əˈweər] nhận thức, biết
-awareness	[əˈweənəs] nhận thức, ý thức
-away	[əˈweɪ] đi, xa
-awful	[ˈɔːfl] khủng khiếp, tồi tệ
-awfully	[ˈɔːfəli] khủng khiếp, kinh khủng
-awkward	[ˈɔːkwəd] vụng về, ngượng ngùng
-axis	[ˈæksɪs] trục, trục
-azure	[ˈæʒər] xanh ngọc, lam
-baby	[ˈbeɪbi] em bé, đứa bé
-back	[bæk] lưng, phía sau
-background	[ˈbækɡraʊnd] nền, bối cảnh
-backward	[ˈbækwəd] lùi lại, ngược lại
-bacteria	[bækˈtɪəriə] vi khuẩn, vi trùng
-bad	[bæd] xấu, tồi
-badly	[ˈbædli] tồi tệ, rất
-bag	[bæɡ] túi, cặp
-bake	[beɪk] nướng, nung
-balance	[ˈbæləns] cân bằng, cân đối
-ball	[bɔːl] quả bóng, bóng
-balloon	[bəˈluːn] quả bóng bay, bong bóng
-ban	[bæn] cấm, lệnh cấm
-banana	[bəˈnɑːnə] chuối, quả chuối
-band	[bænd] ban nhạc, dải
-bank	[bæŋk] ngân hàng, bờ sông
-bar	[bɑːr] thanh, cây gậy
-barrier	[ˈbæriər] rào cản, rào chắn
-base	[beɪs] cơ sở, căn cứ
-baseball	[ˈbeɪsbɔːl] bóng chày, bóng chày
-basic	[ˈbeɪsɪk] cơ bản, cơ sở
-basically	[ˈbeɪsɪkli] cơ bản, về cơ bản
-basis	[ˈbeɪsɪs] cơ sở, nền tảng
-basket	[ˈbɑːskɪt] giỏ, rổ
-basketball	[ˈbɑːskɪtbɔːl] bóng rổ, bóng rổ
-bat	[bæt] con dơi, gậy đánh bóng
-bath	[bæθ] tắm, bồn tắm
-bathroom	[ˈbɑːθruːm] phòng tắm, nhà vệ sinh
-battery	[ˈbætəri] pin, bộ pin
-battle	[ˈbætl] trận đánh, cuộc chiến
-bay	[beɪ] vịnh, hồ
-be	[biː] là, ở
-beach	[biːtʃ] bãi biển, bờ biển
-bean	[biːn] đậu, hạt đậu
-bear	[bɛər] gấu, chịu đựng
-beard	[bɪərd] râu, râu
-beat	[biːt] đánh, đập
-beautiful	[ˈbjuːtɪfl] đẹp, xinh đẹp
-beauty	[ˈbjuːti] vẻ đẹp, sắc đẹp
-because	[bɪˈkɒz] vì, bởi vì
-become	[bɪˈkʌm] trở thành, trở nên
-bed	[bɛd] giường, cái giường
-bedroom	[ˈbɛdruːm] phòng ngủ, phòng ngủ
-beer	[bɪər] bia, bia
-before	[bɪˈfɔːr] trước, trước khi
-begin	[bɪˈɡɪn] bắt đầu, khởi đầu
-beginning	[bɪˈɡɪnɪŋ] sự bắt đầu, khởi đầu
-behave	[bɪˈheɪv] ứng xử, cư xử
-behavior	[bɪˈheɪvjər] hành vi, cách cư xử
-behind	[bɪˈhaɪnd] sau, phía sau
-belief	[bɪˈliːf] niềm tin, lòng tin
-believe	[bɪˈliːv] tin, tin tưởng
-bell	[bɛl] chuông, tiếng chuông
-belong	[bɪˈlɒŋ] thuộc về, là của
-below	[bɪˈləʊ] dưới, phía dưới
-belt	[bɛlt] thắt lưng, dây đai
-bench	[bɛntʃ] ghế dựa, băng ghế
-bend	[bɛnd] uốn cong, uốn cong
-beneath	[bɪˈniːθ] dưới, phía dưới
-benefit	[ˈbɛnɪfɪt] lợi ích, phúc lợi
-beside	[bɪˈsaɪd] bên cạnh, so với
-besides	[bɪˈsaɪdz] ngoài ra, cũng như
-best	[bɛst] tốt nhất, tốt nhất
-bet	[bɛt] cược, đặt cược
-better	[ˈbɛtər] tốt hơn, tốt hơn
-between	[bɪˈtwiːn] giữa, ở giữa
-beyond	[bɪˈjɒnd] vượt ra ngoài, vượt qua
-bicycle	[ˈbaɪsɪkl] xe đạp, xe đạp
-bid	[bɪd] đặt giá, đấu giá
-big	[bɪɡ] lớn, to
-bike	[baɪk] xe đạp, xe đạp
-bill	[bɪl] hóa đơn, dự luật
-billion	[ˈbɪljən] tỷ, tỷ
-bin	[bɪn] thùng, thùng rác
-binary	[ˈbaɪnəri] nhị phân, hai phần
-bind	[baɪnd] buộc, ràng buộc
-biology	[baɪˈɒlədʒi] sinh học, sinh học
-bird	[bɜːrd] chim, con chim
-birth	[bɜːθ] sinh, sự sinh
-birthday	[ˈbɜːθdeɪ] sinh nhật, ngày sinh nhật
-biscuit	[ˈbɪskɪt] bánh quy, bánh quy
-bit	[bɪt] một chút, một ít
-bite	[baɪt] cắn, cắn
-bitter	[ˈbɪtər] đắng, đắng
-black	[blæk] đen, màu đen
-blade	[bleɪd] lưỡi, lưỡi dao
-blame	[bleɪm] đổ lỗi, kết tội
-blank	[blæŋk] trống rỗng, trống rỗng
-blanket	[ˈblæŋkɪt] chăn, cái chăn
-blast	[blæst] phát nổ, sự phát nổ
-blend	[blend] kết hợp, hòa trộn
-bless	[bles] ban phước, chúc phúc
-blessing	[ˈblesɪŋ] phước lành, phúc lành
-blind	[blaɪnd] mù, mù
-block	[blɒk] khối, khối
-blog	[blɒɡ] blog, trang web
-blonde	[blɒnd] tóc vàng hoe, người tóc vàng hoe
-blood	[blʌd] máu, huyết
-blow	[bləʊ] thổi, đánh bạt
-blue	[bluː] xanh dương, màu xanh dương
-board	[bɔːd] bảng, bảng
-boast	[bəʊst] khoe khoang, khoác lác
-boat	[bəʊt] thuyền, con thuyền
-body	[ˈbɒdi] cơ thể, thân thể
-boil	[bɔɪl] sôi, đun sôi
-bold	[bəʊld] táo bạo, dũng cảm
-bomb	[bɒm] bom, quả bom
-bond	[bɒnd] trái phiếu, trái phiếu
-bone	[bəʊn] xương, cốt
-bonus	[ˈbəʊnəs] tiền thưởng, tiền thưởng
-book	[bʊk] sách, cuốn sách
-boom	[buːm] bùng nổ, sự bùng nổ
-boot	[buːt] ủng, ủng
-border	[ˈbɔːdər] biên giới, biên giới
-bore	[bɔːr] làm chán, khó chịu
-born	[bɔːrn] sinh ra, sinh ra
-borrow	[ˈbɒrəʊ] mượn, vay
-boss	[bɒs] sếp, ông chủ
-both	[bəʊθ] cả hai, cả hai
-bother	[ˈbɒðər] làm phiền, phiền toái
-bottle	[ˈbɒtl] chai, lọ
-bottom	[ˈbɒtəm] đáy, đáy
-boundary	[ˈbaʊndəri] ranh giới, ranh giới
-bow	[baʊ] cúi chào, cung
-bowl	[boʊl] tô, cái tô
-box	[bɒks] hộp, hộp
-boy	[bɔɪ] con trai, cậu bé
-brace	[breɪs] nối, chống đỡ
-bracket	[ˈbrækɪt] dấu ngoặc, kẹp
-brain	[breɪn] não, trí não
-branch	[bræntʃ] nhánh, cành
-brand	[brænd] thương hiệu, nhãn hiệu
-brave	[breɪv] can đảm, dũng cảm
-bread	[bred] bánh mì, bánh mì
-break	[breɪk] phá vỡ, đập vỡ
-breakfast	[ˈbrekfəst] bữa sáng, bữa sáng
-breast	[brest] ngực, vú
-breath	[breθ] hơi thở, hơi thở
-breathe	[briːð] thở, hít thở
-brick	[brɪk] gạch, viên gạch
-bridge	[brɪdʒ] cầu, cây cầu
-brief	[briːf] ngắn gọn, tóm tắt
-briefly	[ˈbriːfli] ngắn gọn, tóm tắt
-bright	[braɪt] sáng, tươi sáng
-brilliant	[ˈbrɪljənt] xuất sắc, tuyệt vời
-bring	[brɪŋ] mang, đưa
-broad	[brɔːd] rộng, rộng
-broadcast	[ˈbrɔːdkɑːst] phát sóng, phát thanh
-broadly	[ˈbrɔːdli] rộng rãi, nói chung
-broken	[ˈbrəʊkən] bị vỡ, bị hỏng
-brother	[ˈbrʌðər] anh em trai, anh em
-brown	[braʊn] màu nâu, nâu
-brush	[brʌʃ] cọ, cọ
-bubble	[ˈbʌbl] bong bóng, bong bóng
-bucket	[ˈbʌkɪt] xô, xô
-bud	[bʌd] nụ, nụ hoa
-build	[bɪld] xây dựng, xây dựng
-building	[ˈbɪldɪŋ] tòa nhà, công trình
-bullet	[ˈbʊlɪt] đạn, đạn
-bunch	[bʌntʃ] bó, cụm
-burn	[bɜːrn] đốt cháy, cháy
-burst	[bɜːrst] nổ tung, phát nổ
-bury	[ˈberi] chôn cất, chôn
-bus	[bʌs] xe buýt, xe buýt
-bush	[bʊʃ] bụi cây, bụi cây
-business	[ˈbɪznɪs] kinh doanh, doanh nghiệp
-busy	[ˈbɪzi] bận rộn, bận rộn
-but	[bʌt] nhưng, nhưng
-butter	[ˈbʌtər] bơ, bơ
-button	[ˈbʌtn] nút, nút
-buy	[baɪ] mua, mua
-buyer	[ˈbaɪər] người mua, người mua
-by	[baɪ] bởi, bằng
-bye	[baɪ] tạm biệt, tạm biệt
-cabbage	[ˈkæbɪdʒ]	rau cải
-cabin	[ˈkæbɪn]	ngôi nhà nhỏ, cabin
-cabinet	[ˈkæbɪnɪt]	tủ, kệ
-cable	[ˈkeɪbl]	cáp, dây cáp
-cake	[keɪk]	bánh, bánh ngọt
-calculate	[ˈkælkjʊleɪt]	tính toán, tính
-calculation	[ˌkælkjʊˈleɪʃn]	sự tính toán, sự tính toán
-calendar	[ˈkælɪndər]	lịch, lịch
-call	[kɔːl]	gọi điện thoại, gọi
-calm	[kɑːm]	bình tĩnh, yên bình
-camera	[ˈkæmərə]	máy ảnh, máy chụp ảnh
-camp	[kæmp]	trại, cắm trại
-campaign	[kæmˈpeɪn]	chiến dịch, cuộc vận động
-campus	[ˈkæmpəs]	khuôn viên trường đại học, khuôn viên trường học
-can	[kæn]	có thể, có khả năng
-cancel	[ˈkænsl]	hủy bỏ, hủy
-cancer	[ˈkænsər]	ung thư, bệnh ung thư
-candidate	[ˈkændɪdət]	ứng cử viên, ứng viên
-candle	[ˈkændl]	nến, cây nến
-candy	[ˈkændi]	kẹo, đồ ngọt
-canvas	[ˈkænvəs]	vải, vải
-cap	[kæp]	nón, mũ
-capability	[ˌkeɪpəˈbɪləti]	khả năng, năng lực
-capable	[ˈkeɪpəbl]	có khả năng, có tài năng
-capacity	[kəˈpæsəti]	(n) sức chứa, dung lượng; (adj) có năng lực, có khả năng
-capital	[ˈkæpɪtl]	(n) thủ đô, vốn; (adj) lớn, quan trọng
-capture	[ˈkæptʃər]	bắt giữ, chiếm
-car	[kɑːr]	xe hơi, ô tô
-carbon	[ˈkɑːrbən]	(n) cacbon, (adj) cacbon
-card	[kɑːd]	thẻ, thẻ bài
-care	[kɛː]	quan tâm, chăm sóc
-career	[kəˈrɪə(r)]	sự nghiệp, nghề nghiệp
-careful	[ˈkeəfʊl]	cẩn thận, cẩn trọng
-carefully	[ˈkeəfli]	một cách cẩn thận, một cách cẩn trọng
-carry	[ˈkæri]	mang, vận chuyển
-case	[keɪs]	trường hợp, tình huống
-cash	[kæʃ]	tiền mặt, tiền
-cast	[kɑːst]	(n) bộ đóng, đội ngũ; (v) tung, rải
-cat	[kæt]	mèo, con mèo
-catch	[kætʃ]	bắt, nắm bắt
-category	[ˈkætɪɡəri]	thể loại, loại
-cause	[kɔːz]	nguyên nhân, gây ra
-cease	[siːs]	dừng, ngừng
-celebrate	[ˈselɪbreɪt]	đánh dấu, kỷ niệm
-celebration	[ˌselɪˈbreɪʃn]	sự kỷ niệm, lễ kỷ niệm
-cell	[sel]	tế bào, ô tô
-center	[ˈsentər]	trung tâm, trung tâm
-central	[ˈsentrəl]	trung tâm, trung tâm
-century	[ˈsentʃəri]	thế kỷ, thế kỷ
-certain	[ˈsɜːtən]	chắc chắn, nhất định
-certainly	[ˈsɜːtənli]	chắc chắn, dĩ nhiên
-chain	[ʧeɪn]	xích, chuỗi
-chair	[ʧeər]	ghế, chỗ ngồi
-chairman	[ˈʧeərmən]	chủ tịch, chủ tịch
-challenge	[ˈʧælɪndʒ]	thách thức, thách thức
-chamber	[ˈʧeɪmbə(r)]	phòng, buồng
-champion	[ˈʧæmpiən]	vô địch, nhà vô địch
-championship	[ˈʧæmpiənʃɪp]	chức vô địch, giải vô địch
-chance	[ʧæns]	cơ hội, cơ hội
-change	[ʧeɪndʒ]	thay đổi, thay đổi
-channel	[ˈʧænl]	kênh, kênh
-chapter	[ˈʧæptə(r)]	chương, chương sách
-character	[ˈkærəktə(r)]	nhân vật, tính cách
-charge	[tʃɑːrdʒ]	(n) sự tính phí, (v) tính phí
-charity	[ˈtʃærɪti]	ủy ban từ thiện, từ thiện
-chart	[tʃɑːrt]	bản đồ, biểu đồ
-chase	[tʃeɪs]	đuổi theo, săn đuổi
-chat	[tʃæt]	trò chuyện, nói chuyện
-cheap	[tʃiːp]	rẻ, giá rẻ
-check	[tʃek]	kiểm tra, kiểm tra
-cheek	[tʃiːk]	lan can, má
-cheese	[tʃiːz]	phô mai, phô mai
-chef	[ʃef]	đầu bếp, đầu bếp
-chemical	[ˈkemɪkl]	hóa chất, hóa học
-chest	[tʃest]	hòm, hòm
-chicken	[ˈtʃɪkɪn]	gà, thịt gà
-chief	[tʃiːf]	trưởng ban, trưởng ban
-child	[tʃaɪld]	trẻ em, đứa trẻ
-childhood	[ˈtʃaɪldhʊd]	thời thơ ấu, thời thơ ấu
-chip	[tʃɪp]	vụn, vi chip
-chocolate	[ˈtʃɒklət]	sô cô la, socola
-choice	[tʃɔɪs]	lựa chọn, sự lựa chọn
-choose	[tʃuːz]	lựa chọn, chọn
-church	[tʃɜːrtʃ]	nhà thờ, nhà thờ
-cigarette	[ˌsɪɡəˈret]	điếu thuốc, điếu
-circle	[ˈsɜːkl]	vòng tròn, vòng tròn
-circumstance	[ˈsɜːrkəmstəns]	tình cảnh, hoàn cảnh
-cite	[saɪt]	trích dẫn, trích dẫn
-citizen	[ˈsɪtɪzn]	công dân, công dân
-city	[ˈsɪti]	thành phố, thành phố
-civil	[ˈsɪvl]	dân sự, dân sự
-claim	[kleɪm]	yêu cầu, đòi hỏi
-clash	[klæʃ]	xung đột, va chạm
-class	[klɑːs]	lớp học, lớp
-classic	[ˈklæsɪk]	cổ điển, cổ điển
-classify	[ˈklæsɪfaɪ]	phân loại, phân loại
-clause	[clɔːz]	mệnh đề, điều khoản
-clean	[kliːn]	sạch sẽ, lau chùi
-clear	[klɪə(r)]	rõ ràng, trong suốt
-clearly	[ˈklɪəli]	rõ ràng, rõ ràng
-clerk	[klɜːrk]	nhân viên, thư ký
-click	[klɪk]	kích chuột, kích
-client	[ˈklaɪənt]	khách hàng, người mua hàng
-climate	[ˈklaɪmət]	khí hậu, khí hậu
-climb	[klaɪm]	leo lên, leo
-clinic	[ˈklɪnɪk]	phòng khám, phòng mạch
-clip	[klɪp]	kẹp, đính kèm
-clock	[klɒk]	đồng hồ, cái đồng hồ
-close	[kləʊz]	gần, đóng lại
-closely	[ˈkləʊsli]	gần, chặt chẽ
-closer	[ˈkləʊsə(r)]	gần hơn, gần hơn
-closet	[ˈklɒzɪt]	tủ quần áo, phòng tắm
-cloth	[klɒθ]	vải, vải
-clothes	[kləʊðz]	quần áo, quần áo
-clothing	[ˈkləʊðɪŋ]	trang phục, quần áo
-cloud	[klaʊd]	đám mây, đám mây
-club	[klʌb]	câu lạc bộ, câu lạc bộ
-clue	[kluː]	gợi ý, gợi ý
-cluster	[ˈklʌstə(r)]	cụm, đoàn
-coach	[kəʊʧ]	huấn luyện viên, huấn luyện viên
-coal	[kəʊl]	than, than đá
-coalition	[ˌkəʊəˈlɪʃn]	liên minh, liên minh
-coast	[kəʊst]	bờ biển, bờ biển
-coat	[kəʊt]	áo khoác, áo khoác
-code	[kəʊd]	mã, mã
-coffee	[ˈkɒfi]	cà phê, cà phê
-coin	[kɔɪn]	đồng xu, tiền xu
-cold	[koʊld]	lạnh, cảm lạnh
-collapse	[kəˈlæps]	sự sụp đổ, sự sụp đổ
-colleague	[ˈkɑːliːɡ]	đồng nghiệp, bạn đồng nghiệp
-collect	[kəˈlekt]	thu thập, sưu tầm
-collection	[kəˈlekʃn]	bộ sưu tập, bộ sưu tập
-collective	[kəˈlektɪv]	tập thể, tập thể
-college	[ˈkɑːlɪdʒ]	trường cao đẳng, trường đại học
-colonial	[kəˈloʊniəl]	thuộc thuộc địa, thuộc địa
-colony	[ˈkɑːləni]	địa bàn, thuộc địa
-color	[ˈkʌlər]	màu sắc, màu
-column	[ˈkɒləm]	cột, cột
-combination	[ˌkɒmbɪˈneɪʃn]	kết hợp, sự kết hợp
-combine	[kəmˈbaɪn]	kết hợp, kết hợp
-come	[kʌm]	đến, đến
-comedy	[ˈkɑːmədi]	hài kịch, hài kịch
-comfort	[ˈkʌmfərt]	sự thoải mái, sự thoải mái
-comfortable	[ˈkʌmftəbl]	thoải mái, thoải mái
-command	[kəˈmænd]	lệnh, ra lệnh
-comment	[ˈkɑːment]	bình luận, nhận xét
-commercial	[kəˈmɜːrʃəl]	thương mại, quảng cáo
-commission	[kəˈmɪʃn]	ban, ủy ban
-commit	[kəˈmɪt]	commit, cam kết
-commitment	[kəˈmɪtmənt]	sự cam kết, cam kết
-committee	[kəˈmɪti]	ủy ban, ban
-common	[ˈkɒmən]	thông thường, phổ biến
-communicate	[kəˈmjuːnɪkeɪt]	giao tiếp, truyền đạt
-communication	[kəˌmjuːnɪˈkeɪʃn]	giao tiếp, truyền thông
-community	[kəˈmjuːnəti]	cộng đồng, cộng đồng
-company	[ˈkʌmpəni]	công ty, công ty
-compare	[kəmˈper]	so sánh, so sánh
-comparison	[kəmˈpærɪsn]	sự so sánh, so sánh
-compete	[kəmˈpiːt]	cạnh tranh, thi đấu
-competition	[ˌkɒmpɪˈtɪʃn]	cạnh tranh, cuộc thi
-competitive	[kəmˈpetɪtɪv]	cạnh tranh, có tính cạnh tranh
-complain	[kəmˈpleɪn]	phàn nàn, than phiền
-complaint	[kəmˈpleɪnt]	sự phàn nàn, khiếu nại
-complete	[kəmˈpliːt]	hoàn thành, hoàn chỉnh
-completely	[kəmˈpliːtli]	hoàn toàn, hoàn toàn
-complex	[ˈkɒmpleks]	phức tạp, phức tạp
-complicate	[ˈkɒmplɪkeɪt]	làm phức tạp, làm phức tạp
-complicated	[ˈkɒmplɪkeɪtɪd]	phức tạp, phức tạp
-component	[kəmˈpəʊnənt]	thành phần, thành phần
-compose	[kəmˈpəʊz]	sáng tác, soạn
-composition	[ˌkɒmpəˈzɪʃn]	bài luận, sự sáng tác
-comprehensive	[ˌkɒmprɪˈhensɪv]	toàn diện, bao quát
-computer	[kəmˈpjuːtə(r)]	máy tính, máy tính
-concentrate	[ˈkɒnsəntreɪt]	tập trung, tập trung
-concentration	[ˌkɒnsənˈtreɪʃn]	sự tập trung, nồng độ
-concept	[ˈkɒnsept]	khái niệm, ý tưởng
-concern	[kənˈsɜːn]	quan tâm, quan tâm
-concerned	[kənˈsɜːrnd]	quan tâm, quan tâm
-concert	[ˈkɒnsət]	hòa nhạc, buổi hòa nhạc
-conclude	[kənˈkluːd]	kết luận, kết thúc
-conclusion	[kənˈkluːʒn]	kết luận, kết luận
-concrete	[ˈkɒŋkriːt]	bê tông, bê tông
-condition	[kənˈdɪʃn]	tình trạng, điều kiện
-conduct	[ˈkɒndʌkt]	hành vi, hành động
-conference	[ˈkɒnfərəns]	hội nghị, hội nghị
-confidence	[ˈkɒnfɪdəns]	sự tự tin, tin tưởng
-confident	[ˈkɒnfɪdənt]	tự tin, tự tin
-confirm	[kənˈfɜːm]	xác nhận, xác nhận
-conflict	[ˈkɒnflɪkt]	xung đột, xung đột
-confront	[kənˈfrʌnt]	đối mặt, đương đầu
-confuse	[kənˈfjuːz]	gây nhầm lẫn, làm bối rối
-confusion	[kənˈfjuːʒn]	sự nhầm lẫn, sự hỗn độn
-congress	[ˈkɒŋɡres]	quốc hội, hội nghị
-connect	[kəˈnekt]	kết nối, kết nối
-connection	[kəˈnekʃn]	kết nối, kết nối
-conscious	[ˈkɒnʃəs]	tiềm thức, tỉnh táo
-consciousness	[ˈkɒnʃəsnəs]	tiềm thức, ý thức
-consensus	[kənˈsensəs]	đồng thuận, đồng thuận
-consequence	[ˈkɒnsɪkwəns]	hậu quả, kết quả
-conservative	[kənˈsɜːvətɪv]	bảo thủ, bảo thủ
-consider	[kənˈsɪdə(r)]	xem xét, cân nhắc
-considerable	[kənˈsɪdərəbl]	khá, đáng kể
-consideration	[kənˌsɪdəˈreɪʃn]	sự xem xét, sự cân nhắc
-consist	[kənˈsɪst]	bao gồm, bao gồm
-consistent	[kənˈsɪstənt]	kiên định, nhất quán
-constant	[ˈkɒnstənt]	liên tục, không đổi
-constantly	[ˈkɒnstəntli]	liên tục, liên tục
-constitute	[ˈkɒnstɪtjuːt]	tạo thành, hình thành
-constitution	[ˌkɒnstɪˈtjuːʃn]	hiến pháp, hệ thống
-construct	[kənˈstrʌkt]	xây dựng, xây dựng
-construction	[kənˈstrʌkʃn]	xây dựng, công trình
-consult	[kənˈsʌlt]	tư vấn, tham khảo
-consultant	[kənˈsʌltənt]	cố vấn, chuyên gia tư vấn
-consume	[kənˈsjuːm]	tiêu thụ, tiêu thụ
-consumer	[kənˈsjuːmə(r)]	người tiêu dùng, người tiêu dùng
-consumption	[kənˈsʌmpʃn]	sự tiêu thụ, sự tiêu thụ
-contact	[ˈkɒntækt]	liên lạc, tiếp xúc
-contain	[kənˈteɪn]	chứa đựng, chứa
-container	[kənˈteɪnə(r)]	thùng, bao bì
-contemporary	[kənˈtempərəri]	đương thời, hiện đại
-content	[ˈkɒntent]	nội dung, nội dung
-contest	[ˈkɒntest]	cuộc thi, cuộc thi
-context	[ˈkɒntekst]	bối cảnh, ngữ cảnh
-continue	[kənˈtɪnjuː]	tiếp tục, tiếp tục
-continuous	[kənˈtɪnjuəs]	liên tục, không ngừng
-contract	[ˈkɒntrækt]	hợp đồng, hợp đồng
-contrast	[ˈkɒntrɑːst]	sự tương phản, sự so sánh
-contribute	[kənˈtrɪbjuːt]	góp phần, đóng góp
-contribution	[ˌkɒntrɪˈbjuːʃn]	sự đóng góp, đóng góp
-control	[kənˈtrəʊl]	kiểm soát, điều khiển
-controversial	[ˌkɒntrəˈvɜːʃəl]	gây tranh cãi, tranh luận
-convenience	[kənˈviːniəns]	tiện ích, thuận lợi
-convenient	[kənˈviːniənt]	thuận tiện, thuận tiện
-convention	[kənˈvenʃn]	công, hội nghị
-conventional	[kənˈvenʃənl]	truyền thống, thông thường
-conversation	[ˌkɒnvəˈseɪʃn]	trò chuyện, cuộc trò chuyện
-convert	[kənˈvɜːt]	chuyển đổi, chuyển đổi
-conviction	[kənˈvɪkʃn]	sự tin, sự tin
-convince	[kənˈvɪns]	thuyết phục, thuyết phục
-cook	[kʊk]	nấu ăn, đầu bếp
-cookie	[ˈkʊki]	bánh quy, bánh quy
-cooking	[ˈkʊkɪŋ]	nấu nướng, nấu ăn
-cool	[kuːl]	mát mẻ, lạnh
-cooperate	[kəʊˈɒpəreɪt]	hợp tác, cộng tác
-cooperation	[kəʊˌɒpəˈreɪʃn]	sự hợp tác, sự cộng tác
-coordinate	[kəʊˈɔːdɪneɪt]	cân nhắc, phối hợp
-cope	[kəʊp]	đối phó, vượt qua
-copy	[ˈkɒpi]	bản sao, sao chép
-core	[kɔːr]	lõi, trung tâm
-corner	[ˈkɔːnə(r)]	góc, góc
-corporate	[ˈkɔːpərət]	doanh nghiệp, công ty
-corporation	[ˌkɔːpəˈreɪʃn]	tập đoàn, công ty
-correct	[kəˈrekt]	chính xác, sửa
-correction	[kəˈrekʃn]	sự sửa chữa, sự chỉnh sửa
-correctly	[kəˈrektli]	chính xác, đúng đắn
-correlation	[ˌkɒrəˈleɪʃn]	mối tương quan, tương quan
-correspond	[ˌkɒrɪˈspɒnd]	tương ứng, tương ứng
-correspondence	[ˌkɒrɪˈspɒndəns]	thư từ, sự tương ứng
-corridor	[ˈkɒrɪdɔː(r)]	lối đi, hành lang
-cost	[kɒst]	giá, chi phí
-costly	[ˈkɒstli]	đắt đỏ, tốn kém
-cottage	[ˈkɒtɪdʒ]	nhà tranh, nhà nhỏ
-cotton	[ˈkɒtn]	vải cotton, bông
-couch	[kaʊʧ]	ghế sofa, ghế
-council	[ˈkaʊnsl]	hội đồng, ủy ban
-councillor	[ˈkaʊnslə(r)]	ủy viên hội đồng, cố vấn
-counsel	[ˈkaʊnsl]	tư vấn, luật sư
-counselling	[ˈkaʊnsəlɪŋ]	tư vấn, tư vấn
-count	[kaʊnt]	đếm, tính
-counter	[ˈkaʊntə(r)]	quầy, quầy hàng
-country	[ˈkʌntri]	quốc gia, đất nước
-countryside	[ˈkʌntrɪsaɪd]	nông thôn, miền quê
-county	[ˈkaʊnti]	hạt, quận
-couple	[ˈkʌpl]	cặp, đôi
-courage	[ˈkʌrɪdʒ]	can đảm, dũng cảm
-course	[kɔːs]	khóa học, khoá học
-court	[kɔːt]	tòa án, sân tennis
-cousin	[ˈkʌzn]	anh chị em họ, anh em họ
-cover	[ˈkʌvə(r)]	che, bìa
-coverage	[ˈkʌvərɪdʒ]	sự bảo vệ, phủ sóng
-cow	[kaʊ]	bò cái, bò cái
-crack	[kræk]	nứt, nứt
-craft	[krɑːft]	nghề, nghề thủ công
-crash	[kræʃ]	tai nạn, rơi
-crazy	[ˈkreɪzi]	điên, điên rồ
-cream	[kriːm]	kem, kem
-create	[kriˈeɪt]	tạo ra, sáng tạo
-creation	[kriˈeɪʃn]	sự tạo ra, sự sáng tạo
-creative	[kriˈeɪtɪv]	sáng tạo, sáng tạo
-creature	[ˈkriːtʃə(r)]	sinh vật, sinh vật
-credit	[ˈkredɪt]	tín dụng, tín dụng
-crew	[kruː]	phi hành đoàn, đoàn viên
-crime	[kraɪm]	tội phạm, tội ác
-criminal	[ˈkrɪmɪnl]	tội phạm, tội phạm
-crisis	[ˈkraɪsɪs]	khủng hoảng, cuộc khủng hoảng
-criteria	[kraɪˈtɪəriə]	tiêu chuẩn, tiêu chí
-critic	[ˈkrɪtɪk]	khách hàng, nhà phê bình
-critical	[ˈkrɪtɪkl]	quyết định, quan trọng
-criticism	[ˈkrɪtɪsɪzəm]	sự phê bình, chỉ trích
-criticize	[ˈkrɪtɪsaɪz]	phê bình, chỉ trích
-crop	[krɒp]	mùa vụ, mùa vụ
-cross	[krɒs]	vượt qua, qua lại
-crowd	[kraʊd]	đám đông, đám đông
-crown	[kraʊn]	vương miện, vương miện
-crucial	[ˈkruːʃəl]	quan trọng, quyết định
-cruel	[ˈkruːəl]	tàn nhẫn, độc ác
-cry	[kraɪ]	kêu la, khóc
-cultural	[ˈkʌltʃərəl]	văn hóa, văn hóa
-culture	[ˈkʌltʃə(r)]	văn hóa, văn hóa
-cup	[kʌp]	cốc, cốc
-curious	[ˈkjʊəriəs]	tò mò, tò mò
-currency	[ˈkʌrənsi]	tiền tệ, tiền tệ
-current	[ˈkʌrənt]	hiện tại, hiện tại
-currently	[ˈkʌrəntli]	hiện tại, hiện tại
-curriculum	[kəˈrɪkjələm]	chương trình học, chương trình học
-curve	[kɜːv]	đường cong, cong
-custom	[ˈkʌstəm]	tập tục, phong tục
-customer	[ˈkʌstəmə(r)]	khách hàng, khách hàng
-cut	[kʌt]	cắt, cắt
-cyber	[ˈsaɪbə(r)]	mạng, mạng
-cycle	[ˈsaɪkl]	vòng, chu kỳ
-cycling	[ˈsaɪklɪŋ]	đạp xe, đạp xe
-dad	[dæd]	bố, cha
-daily	[ˈdeɪli]	hàng ngày, mỗi ngày
-damage	[ˈdæmɪdʒ]	tổn thương, hỏng hóc
-dance	[dæns]	vũ điệu, nhảy
-danger	[ˈdeɪndʒə(r)]	nguy hiểm, hiểm nguy
-dangerous	[ˈdeɪndʒərəs]	nguy hiểm, nguy hiểm
-dark	[dɑːrk]	tối, tối tăm
-data	[ˈdeɪtə]	dữ liệu, số liệu
-database	[ˈdeɪtəˌbeɪs]	cơ sở dữ liệu, cơ sở dữ liệu
-date	[deɪt]	ngày, ngày
-daughter	[ˈdɔːtə(r)]	con gái, con gái
-day	[deɪ]	ngày, ngày
-dead	[ded]	chết, chết
-deal	[diːl]	ghi, giao dịch
-dealer	[ˈdiːlə(r)]	người bán, nhà cung cấp
-dear	[dɪə(r)]	quý, thân
-death	[deθ]	cái chết, sự chết
-debate	[dɪˈbeɪt]	tranh luận, tranh cãi
-debt	[det]	nợ, nợ
-decade	[ˈdekeɪd]	thập kỷ, thập kỷ
-decay	[dɪˈkeɪ]	sự phân hủy, sự suy thoái
-decent	[ˈdiːsnt]	tốt, lịch sự
-decide	[dɪˈsaɪd]	quyết định, quyết định
-decision	[dɪˈsɪʒn]	quyết định, quyết định
-deck	[dek]	gác, tầng
-declare	[dɪˈkleə(r)]	tuyên bố, công bố
-decline	[dɪˈklaɪn]	suy giảm, từ chối
-decorate	[ˈdekəreɪt]	trang trí, trang trí
-decoration	[ˌdekəˈreɪʃn]	trang trí, trang trí
-decorative	[ˈdekərətɪv]	trang trí, trang trí
-decrease	[ˈdiːkriːs]	sự giảm, giảm
-dedicate	[ˈdedɪkeɪt]	tận tâm, dành
-dedicated	[ˈdedɪkeɪtɪd]	tận tâm, tận tâm
-deep	[diːp]	sâu, sâu
-deeply	[ˈdiːpli]	sâu, sâu
-defeat	[dɪˈfiːt]	thất bại, đánh bại
-defence	[dɪˈfens]	bảo vệ, phòng thủ
-defend	[dɪˈfend]	bảo vệ, bảo vệ
-defender	[dɪˈfendə(r)]	hậu vệ, người bảo vệ
-defensive	[dɪˈfensɪv]	bảo vệ, phòng thủ
-definitely	[ˈdefɪnətli]	chắc chắn, nhất định
-definition	[ˌdefɪˈnɪʃn]	định nghĩa, định nghĩa
-degree	[dɪˈɡriː]	bằng cấp, mức độ
-delay	[dɪˈleɪ]	trì hoãn, trì hoãn
-delete	[dɪˈliːt]	xóa bỏ, xóa
-deliberate	[dɪˈlɪbərət]	cố ý, cân nhắc
-deliberately	[dɪˈlɪbərətli]	cố ý, một cách cân nhắc
-delivery	[dɪˈlɪvəri]	giao hàng, phân phát
-demand	[dɪˈmænd]	nhu cầu, yêu cầu
-democracy	[dɪˈmɒkrəsi]	dân chủ, dân chủ
-democratic	[ˌdeməˈkrætɪk]	dân chủ, dân chủ
-demonstrate	[ˈdemənstreɪt]	chứng minh, thể hiện
-demonstration	[ˌdemənˈstreɪʃn]	sự chứng minh, cuộc biểu tình
-dense	[dens]	dày đặc, mật độ cao
-density	[ˈdensəti]	mật độ, độ dày
-deny	[dɪˈnaɪ]	từ chối, phủ nhận
-department	[dɪˈpɑːtmənt]	bộ phận, phòng ban
-depend	[dɪˈpend]	phụ thuộc, phụ thuộc
-dependent	[dɪˈpendənt]	phụ thuộc, người phụ thuộc
-deposit	[dɪˈpɒzɪt]	tiền đặt cọc, tiền gửi
-depression	[dɪˈpreʃn]	trầm cảm, sự suy thoái
-depth	[depθ]	sâu, chiều sâu
-derive	[dɪˈraɪv]	bắt nguồn, tìm ra
-describe	[dɪˈskraɪb]	mô tả, miêu tả
-description	[dɪˈskrɪpʃn]	sự mô tả, mô tả
-desert	[ˈdezət]	đồng cỏ khô, sa mạc
-deserve	[dɪˈzɜːv]	xứng đáng, xứng đáng
-design	[dɪˈzaɪn]	thiết kế, thiết kế
-designer	[dɪˈzaɪnə(r)]	người thiết kế, nhà thiết kế
-desire	[dɪˈzaɪə(r)]	mong muốn, mong muốn
+ability	(n) [əˈbɪlɪti] khả năng
+abandon	(v) [əˈbændən] từ bỏ, bỏ rơi
+accent	(n) [ˈæksɛnt] giọng điệu
+accept	(v) [ækˈsɛpt] chấp nhận
+access	(n) [ˈækses] quyền truy cập
+accident	(n) [ˈæksɪdənt] tai nạn
+account	(n) [əˈkaʊnt] tài khoản
+accurate	(adj) [ˈækjʊrət] chính xác
+accuse	(v) [əˈkjuːz] buộc tội
+achieve	(v) [əˈtʃiːv] đạt được
+acknowledge	(v) [ækˈnɒlɪdʒ] công nhận, thừa nhận
+acquire	(v) [əˈkwaɪər] giành được, thu được
+act	(v) [ækt] hành động
+action	(n) [ˈækʃən] hành động
+active	(adj) [ˈæktɪv] tích cực, năng động
+activity	(n) [ækˈtɪvɪti] hoạt động
+actor	(n) [ˈæktə(r)] diễn viên nam
+actress	(n) [ˈæktrɪs] diễn viên nữ
+actual	(adj) [ˈæktʃuəl] thực tế
+adapt	(v) [əˈdæpt] thích nghi
+add	(v) [æd] thêm vào
+addition	(n) [əˈdɪʃən] phép cộng, sự bổ sung
+address	(n) [ˈædrɛs] địa chỉ
+adequate	(adj) [ˈædɪkwət] đầy đủ, thỏa đáng
+adjust	(v) [əˈdʒʌst] điều chỉnh
+administration	(n) [ədˌmɪnɪˈstreɪʃən] quản trị, quản lý
+admire	(v) [ədˈmaɪər] ngưỡng mộ
+admission	(n) [ədˈmɪʃən] sự nhận vào, sự thừa nhận
+admit	(v) [ədˈmɪt] thừa nhận
+adopt	(v) [əˈdɒpt] nhận nuôi
+adult	(n) [ˈædʌlt] người lớn
+advance	(v) [ədˈvæns] tiến bộ
+advantage	(n) [ədˈvɑːntɪdʒ] lợi thế
+adventure	(n) [ədˈvɛntʃə(r)] cuộc phiêu lưu
+advertise	(v) [ˈædvətaɪz] quảng cáo
+advice	(n) [ædˈvaɪs] lời khuyên
+advise	(v) [ədˈvaɪz] khuyên bảo
+aerial	(adj) [ˈɛəriəl] thuộc về không khí, trên không
+aesthetic	(adj) [iːsˈθetɪk] thuộc về thẩm mỹ
+affair	(n) [əˈfɛər] sự kiện, chuyện tình cảm
+affect	(v) [əˈfekt] ảnh hưởng
+affection	(n) [əˈfɛkʃən] tình cảm
+afford	(v) [əˈfɔːrd] đủ khả năng chi trả
+afraid	(adj) [əˈfreɪd] sợ hãi
+after	(prep) [ˈæftər] sau khi
+afternoon	(n) [ˌæftərˈnuːn] buổi chiều
+again	(adv) [əˈgen] lại, một lần nữa
+against	(prep) [əˈgenst] chống lại, đối lại
+age	(n) [eɪdʒ] tuổi, độ tuổi
+agency	(n) [ˈeɪdʒənsi] đại lý, cơ quan
+agenda	(n) [əˈdʒendə] chương trình nghị sự
+agent	(n) [ˈeɪdʒənt] đại lý, tác nhân
+aggressive	(adj) [əˈgresɪv] hung hăng, xâm lược
+ago	(adv) [əˈgoʊ] trước, cách đây
+agree	(v) [əˈɡriː] đồng ý
+agreement	(n) [əˈɡriːmənt] sự đồng ý, hợp đồng
+agriculture	(n) [ˈæɡrɪkʌltʃər] nông nghiệp
+ahead	(adv) [əˈhed] phía trước
+aid	(n) [eɪd] sự giúp đỡ
+aim	(v) [eɪm] nhắm, mục đích
+air	(n) [ɛər] không khí
+aircraft	(n) [ˈɛəkræft] máy bay
+airline	(n) [ˈɛərlaɪn] hãng hàng không
+airport	(n) [ˈɛərpɔːrt] sân bay
+alarm	(n) [əˈlɑːrm] báo động, chuông báo
+album	(n) [ˈælbəm] album, tập ảnh
+alcohol	(n) [ˈælkəhɔl] rượu, cồn
+alert	(adj) [əˈlɜːrt] cảnh giác
+alike	(adj) [əˈlaɪk] giống nhau
+alive	(adj) [əˈlaɪv] sống
+all	(adv) [ɔːl] tất cả
+alley	(n) [ˈæli] ngõ, hẻm
+allow	(v) [əˈlaʊ] cho phép
+ally	(n) [ˈælaɪ] đồng minh
+almost	(adv) [ˈɔːlmoʊst] gần như
+alone	(adj) [əˈloʊn] một mình
+along	(prep) [əˈlɔːŋ] dọc theo
+aloud	(adv) [əˈlaʊd] to tiếng, lớn tiếng
+alphabet	(n) [ˈælfəbɛt] bảng chữ cái
+already	(adv) [ɔːlˈrɛdi] đã, rồi
+also	(adv) [ˈɔːlsoʊ] cũng, cũng thế
+alter	(v) [ˈɔːltər] thay đổi
+alternative	(adj) [ɔːlˈtɜːrnətɪv] thay thế, khác
+although	(conj) [ɔːlˈðoʊ] mặc dù
+altitude	(n) [ˈæltɪtjuːd] độ cao
+altogether	(adv) [ˌɔːltəˈɡeðər] hoàn toàn, tất cả
+always	(adv) [ˈɔːlweɪz] luôn luôn
+amateur	(n) [ˈæmətə(r)] nghiệp dư, người nghiệp dư
+amaze	(v) [əˈmeɪz] làm kinh ngạc
+amazing	(adj) [əˈmeɪzɪŋ] kinh ngạc
+ambassador	(n) [æmˈbæsədə(r)] đại sứ
+ambition	(n) [æmˈbɪʃn] hoài bão, khát vọng
+ambitious	(adj) [æmˈbɪʃəs] có tham vọng
+ambulance	(n) [ˈæmbjʊləns] xe cứu thương
+among	(prep) [əˈmʌŋ] ở giữa, trong số
+amount	(n) [əˈmaʊnt] số lượng
+amuse	(v) [əˈmjuːz] làm vui, làm buồn cười
+amusing	(adj) [əˈmjuːzɪŋ] vui nhộn, hài hước
+analyse	(v) [ˈænəlaɪz] phân tích
+analysis	(n) [əˈnælɪsɪs] phân tích
+ancestor	(n) [ˈænsestə(r)] tổ tiên, ông bà
+anchor	(n) [ˈæŋkə(r)] neo, chốt, giữa
+ancient	(adj) [ˈeɪnʃənt] cổ xưa
+and	(conj) [ənd] và
+anger	(n) [ˈæŋɡə(r)] sự tức giận
+angle	(n) [ˈæŋɡəl] góc
+angry	(adj) [ˈæŋɡri] tức giận
+animal	(n) [ˈænɪməl] động vật
+ankle	(n) [ˈæŋkl] mắt cá chân
+anniversary	(n) [ˌænɪˈvɜːrsəri] kỉ niệm
+announce	(v) [əˈnaʊns] thông báo
+announcement	(n) [əˈnaʊnsmənt] thông báo
+annoy	(v) [əˈnɔɪ] làm phiền, quấy rối
+annual	(adj) [ˈænjuəl] hàng năm
+another	(det) [əˈnʌðər] một cái khác
+answer	(v) [ˈænsər] trả lời
+anticipate	(v) [ænˈtɪsɪpeɪt] dự đoán, mong chờ
+anxiety	(n) [æŋˈzaɪəti] lo lắng, lo sợ
+anxious	(adj) [ˈæŋkʃəs] lo lắng, lo sợ
+any	(det) [ˈɛni] bất kỳ, một chút
+anybody	(pron) [ˈɛnibɒdi] bất kỳ ai
+anyone	(pron) [ˈɛniwʌn] bất kỳ ai
+anything	(pron) [ˈɛnɪθɪŋ] bất cứ điều gì
+anyway	(adv) [ˈɛnɪˌweɪ] dù sao, mặc kệ
+anywhere	(adv) [ˈɛniwɛə(r)] ở bất cứ nơi nào
+apart	(adv) [əˈpɑːrt] riêng biệt, cách xa
+apartment	(n) [əˈpɑːrtmənt] căn hộ
+apologize	(v) [əˈpɒlədʒaɪz] xin lỗi
+apology	(n) [əˈpɒlədʒi] lời xin lỗi
+apparent	(adj) [əˈpærənt] rõ ràng, dễ thấy
+apparently	(adv) [əˈpærəntli] có vẻ như, rõ ràng là
+appeal	(v) [əˈpiːl] kêu gọi, thu hút
+appear	(v) [əˈpɪr] xuất hiện, trông có vẻ
+appearance	(n) [əˈpɪrəns] sự xuất hiện, vẻ bề ngoài
+apple	(n) [ˈæpəl] quả táo, táo
+application	(n) [ˌæplɪˈkeɪʃn] ứng dụng, sự ứng dụng
+apply	(v) [əˈplaɪ] áp dụng, nộp đơn
+appoint	(v) [əˈpɔɪnt] bổ nhiệm, chỉ định
+appointment	(n) [əˈpɔɪntmənt] cuộc hẹn, sự bổ nhiệm
+appreciate	(v) [əˈpriːʃieɪt] đánh giá, trân trọng
+approach	(v) [əˈproʊtʃ] tiếp cận
+appropriate	(adj) [əˈproʊpriət] thích hợp, phù hợp
+approval	(n) [əˈpruːvəl] sự chấp thuận
+approve	(v) [əˈpruːv] phê duyệt, tán thành
+approximate	(adj) [əˈprɑːksɪmət] xấp xỉ, gần đúng
+approximately	(adv) [əˈprɑːksɪmətli] xấp xỉ, khoảng
+april	(n) [ˈeɪprəl] tháng tư
+aquarium	(n) [əˈkwɛriəm] hồ cá
+aquatic	(adj) [əˈkwætɪk] sống dưới nước
+arbitrary	(adj) [ˈɑːrbɪtrəri] độc đoán, tùy tiện
+arc	(n) [ɑːrk] cung
+arch	(n) [ɑːrtʃ] cung, hình cung
+architect	(n) [ˈɑːrkɪtekt] kiến trúc sư
+architecture	(n) [ˈɑːrkɪtektʃər] kiến trúc
+archive	(n) [ˈɑːrkaɪv] lưu trữ
+area	(n) [ˈɛriə] khu vực
+arena	(n) [əˈriːnə] đấu trường, sân vận động
+argue	(v) [ˈɑːrgjuː] tranh luận, biện hộ
+argument	(n) [ˈɑːrgjʊmənt] cuộc tranh luận, lý lẽ
+arise	(v) [əˈraɪz] nảy ra, xuất phát
+arm	(n) [ɑːrm] cánh tay
+armed	(adj) [ɑːrmd] có vũ trang
+armor	(n) [ˈɑːrmər] áo giáp
+army	(n) [ˈɑːrmi] quân đội
+around	(adv) [əˈraʊnd] xung quanh, ở xung quanh
+arrange	(v) [əˈreɪndʒ] sắp xếp, sắp đặt
+arrangement	(n) [əˈreɪndʒmənt] sự sắp xếp
+arrest	(v) [əˈrɛst] bắt giữ, tạm giữ
+arrival	(n) [əˈraɪvəl] sự đến, sự đến nơi
+arrive	(v) [əˈraɪv] đến, đến nơi
+arrow	(n) [ˈæroʊ] mũi tên
+art	(n) [ɑːrt] nghệ thuật
+article	(n) [ˈɑːrtɪkl] bài báo, mục báo
+artificial	(adj) [ˌɑːrtɪˈfɪʃl] nhân tạo, giả mạo
+artist	(n) [ˈɑːrtɪst] nghệ sĩ, họa sĩ
+artistic	(adj) [ɑːrˈtɪstɪk] thuộc về nghệ thuật
+as	(conj) [əz] như, khi, trong khi
+ash	(n) [æʃ] tro, tro tàn
+ashamed	(adj) [əˈʃeɪmd] xấu hổ, hổ thẹn
+aside	(adv) [əˈsaɪd] sang một bên, ngoài lề
+ask	(v) [æsk] hỏi, yêu cầu
+asleep	(adj) [əˈsliːp] đang ngủ
+aspect	(n) [ˈæspekt] khía cạnh, góc độ
+assault	(n) [əˈsɔːlt] cuộc tấn công, tấn công
+asset	(n) [ˈæsɛt] tài sản, tài nguyên
+assign	(v) [əˈsaɪn] phân công, giao việc
+assignment	(n) [əˈsaɪnmənt] sự phân công, bài tập
+assist	(v) [əˈsɪst] hỗ trợ, giúp đỡ
+assistance	(n) [əˈsɪstəns] sự giúp đỡ, trợ giúp
+assistant	(n) [əˈsɪstənt] trợ lý, trợ tá
+associate	(v) [əˈsoʊsieɪt] kết nối, liên kết
+association	(n) [əˌsoʊsiˈeɪʃn] sự liên kết, hiệp hội
+assume	(v) [əˈsjuːm] cho rằng, giả định
+assumption	(n) [əˈsʌmpʃn] sự giả định, ước định
+assure	(v) [əˈʃʊr] đảm bảo, cam đoan
+astonish	(v) [əˈstɑːnɪʃ] làm ngạc nhiên, làm kinh ngạc
+astronaut	(n) [ˈæstrənɔːt] phi hành gia
+astronomy	(n) [əˈstrɒnəmi] thiên văn học
+asylum	(n) [əˈsaɪləm] tị nạn
+athlete	(n) [ˈæθliːt] vận động viên
+athletic	(adj) [æθˈletɪk] thuộc về thể thao, khoẻ mạnh
+atmosphere	(n) [ˈætməsfɪər] khí quyển, bầu không khí
+atom	(n) [ˈætəm] nguyên tử
+atomic	(adj) [əˈtɒmɪk] nguyên tử
+attach	(v) [əˈtætʃ] gắn, đính kèm
+attack	(v) [əˈtæk] tấn công, công kích
+attempt	(n) [əˈtempt] sự cố gắng, sự thử
+attend	(v) [əˈtend] tham dự, đi học
+attention	(n) [əˈtenʃn] sự chú ý, sự quan tâm
+attitude	(n) [ˈætɪtjuːd] thái độ, quan điểm
+attorney	(n) [əˈtɜːrni] luật sư, người ủy quyền
+attract	(v) [əˈtrækt] thu hút, lôi cuốn
+attraction	(n) [əˈtrækʃn] sự thu hút, địa điểm du lịch
+attractive	(adj) [əˈtræktɪv] hấp dẫn, cuốn hút
+attribute	(n) [ˈætrɪbjuːt] thuộc tính, đặc tính
+auction	(n) [ˈɔːkʃn] phiên đấu giá
+audience	(n) [ˈɔːdiəns] khán giả, thính giả
+audio	(adj) [ˈɔːdiəʊ] âm thanh, thuộc về âm thanh
+audit	(n) [ˈɔːdɪt] kiểm toán, kiểm tra
+auditorium	(n) [ˌɔːdɪˈtɔːriəm] hội trường
+august	(n) [ɔːˈɡʌst] tháng tám
+aunt	(n) [ɑːnt] cô, dì
+author	(n) [ˈɔːθə(r)] tác giả, nhà văn
+authority	(n) [ɔːˈθɒrəti] quyền lực, quyền uy
+auto	(n) [ˈɔːtoʊ] xe hơi, ô tô
+automatic	(adj) [ˌɔːtəˈmætɪk] tự động, tự động hóa
+automatically	(adv) [ˌɔːtəˈmætɪkli] tự động, tự động hóa
+autonomy	(n) [ɔːˈtɒnəmi] tự chủ, tự trị
+autumn	(n) [ˈɔːtəm] mùa thu
+availability	(n) [əˌveɪləˈbɪləti] sự có sẵn, tính sẵn có
+available	(adj) [əˈveɪləbl] có sẵn, có thể sử dụng được
+avenue	(n) [ˈævənjuː] đại lộ, con đường
+average	(adj) [ˈævərɪdʒ] trung bình, bình quân
+avoid	(v) [əˈvɔɪd] tránh, né tránh
+award	(n) [əˈwɔːrd] giải thưởng, phần thưởng
+aware	(adj) [əˈwer] nhận thức, ý thức
+away	(adv) [əˈweɪ] đi, xa
+awful	(adj) [ˈɔːfl] tồi tệ, khủng khiếp
+awkward	(adj) [ˈɔːkwərd] vụng về, ngượng ngùng
+axis	(n) [ˈæksɪs] trục, trục quay
+baby	(n) [ˈbeɪbi] em bé, đứa trẻ
+back	(adv) [bæk] phía sau, về phía sau
+background	(n) [ˈbækɡraʊnd] nền, bối cảnh
+backward	(adj) [ˈbækwərd] lùi, về phía sau
+bacon	(n) [ˈbeɪkən] thịt ba chỉ
+bacteria	(n) [bækˈtɪəriə] vi khuẩn, vi sinh vật
+bad	(adj) [bæd] xấu, tồi
+badge	(n) [bædʒ] huy hiệu, biểu hiện
+badly	(adv) [ˈbædli] tồi tệ, xấu
+bag	(n) [bæɡ] túi, bao
+baggage	(n) [ˈbæɡɪdʒ] hành lý
+bake	(v) [beɪk] nướng (bánh, bánh mì)
+balance	(n) [ˈbæləns] cân bằng, sự cân đối
+ball	(n) [bɔːl] quả bóng, cầu
+ballet	(n) [ˈbæleɪ] múa ba lê
+balloon	(n) [bəˈluːn] bóng bay
+ban	(v) [bæn] cấm, ngăn chặn
+banana	(n) [bəˈnænə] chuối
+band	(n) [bænd] ban nhạc, dải, băng
+bandage	(n) [ˈbændɪdʒ] băng dính
+bank	(n) [bæŋk] ngân hàng
+bar	(n) [bɑːr] thanh, thanh ngang
+barbecue	(n) [ˈbɑːrbɪkjuː] tiệc nướng ngoài trời
+bare	(adj) [ber] trần, khỏa thân
+barely	(adv) [ˈberli] gần như không, hầu như không
+bargain	(n) [ˈbɑːrɡɪn] món hời, món đồ rẻ tiền
+bark	(v) [bɑːrk] sủa
+barn	(n) [bɑːrn] chuồng trại, kho thóc
+barrel	(n) [ˈbærəl] thùng, thùng chứa
+barrier	(n) [ˈbæriər] rào cản, chướng ngại vật
+base	(n) [beɪs] cơ sở, căn cứ
+baseball	(n) [ˈbeɪsbɔːl] bóng chày
+basement	(n) [ˈbeɪsmənt] tầng hầm
+basic	(adj) [ˈbeɪsɪk] cơ bản, cơ sở
+basically	(adv) [ˈbeɪsɪkli] về cơ bản, cơ bản là
+basin	(n) [ˈbeɪsn] lưu vực, chậu
+basis	(n) [ˈbeɪsɪs] cơ sở, căn bản
+basket	(n) [ˈbæskɪt] giỏ, rổ
+basketball	(n) [ˈbæskɪtbɔːl] bóng rổ
+bat	(n) [bæt] dơi, gậy đánh bóng
+bath	(n) [bæθ] tắm
+bathroom	(n) [ˈbæθruːm] phòng tắm
+battery	(n) [ˈbætəri] pin, bộ pin
+battle	(n) [ˈbætl] trận đánh, cuộc chiến
+bay	(n) [beɪ] vịnh, eo biển
+be	(v) [biː] là, ở
+beach	(n) [biːtʃ] bãi biển
+bean	(n) [biːn] đậu
+bear	(n) [ber] gấu
+beard	(n) [bɪrd] râu
+beat	(v) [biːt] đánh, đập
+beautiful	(adj) [ˈbjuːtɪfl] đẹp, xinh đẹp
+beauty	(n) [ˈbjuːti] sắc đẹp, vẻ đẹp
+because	(conj) [bɪˈkɒz] vì, bởi vì
+become	(v) [bɪˈkʌm] trở thành, trở nên
+bed	(n) [bed] giường
+bedroom	(n) [ˈbedruːm] phòng ngủ
+bee	(n) [biː] con ong
+beef	(n) [biːf] thịt bò
+beer	(n) [bɪər] bia
+before	(adv) [bɪˈfɔːr] trước, trước khi
+begin	(v) [bɪˈɡɪn] bắt đầu
+beginning	(n) [bɪˈɡɪnɪŋ] sự bắt đầu, khởi đầu
+behalf	(n) [bɪˈhɑːf] tên, phía
+behave	(v) [bɪˈheɪv] cư xử, ứng xử
+behavior	(n) [bɪˈheɪvjə(r)] hành vi, cách cư xử
+behind	(adv) [bɪˈhaɪnd] phía sau
+being	(n) [ˈbiːɪŋ] sinh vật, tồn tại
+belief	(n) [bɪˈliːf] niềm tin, đức tin
+believe	(v) [bɪˈliːv] tin, tin tưởng
+bell	(n) [bel] chuông
+belong	(v) [bɪˈlɒŋ] thuộc về, là của
+below	(adv) [bɪˈləʊ] dưới, phía dưới
+belt	(n) [belt] dây đai, thắt lưng
+bench	(n) [bentʃ] ghế dài, băng dài
+bend	(v) [bend] uốn cong, uốn cong
+beneath	(adv) [bɪˈniːθ] dưới, phía dưới
+benefit	(n) [ˈbenɪfɪt] lợi ích, phúc lợi
+beside	(adv) [bɪˈsaɪd] bên cạnh, bên
+besides	(adv) [bɪˈsaɪdz] ngoài ra, còn có
+best	(adj) [best] tốt nhất
+bet	(v) [bet] đặt cược, đánh cuộc
+better	(adj) [ˈbetər] tốt hơn, cải thiện
+between	(adv) [bɪˈtwiːn] giữa, ở giữa
+beyond	(adv) [bɪˈjɒnd] vượt ra ngoài, phía sau
+bias	(n) [ˈbaɪəs] thiên vị, định kiến
+bicycle	(n) [ˈbaɪsɪkl] xe đạp
+big	(adj) [bɪɡ] lớn, to
+bike	(n) [baɪk] xe đạp
+bill	(n) [bɪl] hóa đơn, giấy bạc
+billion	(num) [ˈbɪljən] tỷ
+bind	(v) [baɪnd] buộc, ràng buộc
+biography	(n) [baɪˈɒɡrəfi] tiểu sử, lịch sử đời
+biology	(n) [baɪˈɒlədʒi] sinh học
+bird	(n) [bɜːrd] chim
+birth	(n) [bɜːθ] sự sinh ra, ngày sinh
+birthday	(n) [ˈbɜːθdeɪ] sinh nhật
+biscuit	(n) [ˈbɪskɪt] bánh quy, bánh mì hỏng
+bit	(n) [bɪt] một chút, mảnh nhỏ
+bite	(v) [baɪt] cắn, cắn
+bitter	(adj) [ˈbɪtə(r)] đắng, đắng cay
+black	(adj) [blæk] đen, màu đen
+blade	(n) [bleɪd] lưỡi (dao, kiếm), cánh (cỏ)
+blame	(v) [bleɪm] đổ lỗi, trách móc
+blank	(adj) [blæŋk] trống, trắng
+blanket	(n) [ˈblæŋkɪt] chăn, mền
+blast	(n) [blæst] sự nổ, sự phá hủy
+blend	(v) [blend] pha trộn, kết hợp
+bless	(v) [bles] ban phước, chúc phúc
+blessing	(n) [ˈblesɪŋ] phước lành, sự chúc phúc
+blind	(adj) [blaɪnd] mù, bị mù
+block	(n) [blɒk] khối, khối lập phương
+blog	(n) [blɒɡ] blog
+blogger	(n) [ˈblɒɡə(r)] blogger
+blood	(n) [blʌd] máu
+bloody	(adj) [ˈblʌdi] đẫm máu, rất máu
+blow	(v) [bloʊ] thổi, đánh, đập
+blue	(adj) [bluː] xanh dương, màu xanh dương
+board	(n) [bɔːrd] bảng, tấm ván
+boat	(n) [boʊt] thuyền, tàu
+body	(n) [ˈbɒdi] cơ thể, thân thể
+boil	(v) [bɔɪl] sôi, đun sôi
+bomb	(n) [bɒm] bom
+bond	(n) [bɒnd] mối liên kết, trái phiếu
+bone	(n) [boʊn] xương
+bonus	(n) [ˈbəʊnəs] tiền thưởng, phần thưởng
+book	(n) [bʊk] sách
+boom	(n) [buːm] tiến triển mạnh mẽ, sự bùng nổ
+boost	(v) [buːst] tăng cường, thúc đẩy
+boot	(n) [buːt] ủng, giày (cao cổ)
+border	(n) [ˈbɔːrdər] biên giới, ranh giới
+bore	(v) [bɔːr] làm chán, làm buồn chán
+boredom	(n) [ˈbɔːdəm] sự chán chường
+born	(adj) [bɔːrn] sinh ra, được sinh ra
+borrow	(v) [ˈbɒroʊ] mượn
+boss	(n) [bɒs] ông chủ, sếp
+both	(adv) [boʊθ] cả hai
+bother	(v) [ˈbɒðər] làm phiền, quấy rầy
+bottle	(n) [ˈbɒtl] chai
+bottom	(n) [ˈbɒtəm] đáy, đáy của
+bounce	(v) [baʊns] nảy, bật
+bound	(adj) [baʊnd] ràng buộc, bị buộc
+boundary	(n) [ˈbaʊndəri] ranh giới, biên giới
+bow	(n) [baʊ] cúi chào, cung
+bowl	(n) [boʊl] cái bát, tô
+box	(n) [bɒks] hộp, thùng
+boy	(n) [bɔɪ] cậu bé, con trai
+brain	(n) [breɪn] óc, não
+branch	(n) [bræntʃ] nhánh, cành
+brand	(n) [brænd] thương hiệu
+brave	(adj) [breɪv] dũng cảm, can đảm
+bread	(n) [bred] bánh mì
+break	(v) [breɪk] phá vỡ, đập vỡ
+breakfast	(n) [ˈbrekfəst] bữa sáng
+breast	(n) [brest] vú, ngực
+breath	(n) [breθ] hơi thở
+breathe	(v) [briːð] thở
+brick	(n) [brɪk] gạch, gạch nung
+bridge	(n) [brɪdʒ] cầu
+brief	(adj) [briːf] ngắn gọn, tóm tắt
+briefly	(adv) [ˈbriːfli] một cách ngắn gọn, tóm tắt
+bright	(adj) [braɪt] sáng, sáng chói
+brilliant	(adj) [ˈbrɪljənt] lộng lẫy, tuyệt vời
+bring	(v) [brɪŋ] mang, đưa
+broad	(adj) [brɔːd] rộng, rộng lớn
+broadcast	(n) [ˈbrɔːdkæst] phát sóng, truyền hình
+brother	(n) [ˈbrʌðər] anh em, anh trai
+brown	(adj) [braʊn] nâu, màu nâu
+brush	(n) [brʌʃ] bàn chải, cọ
+bubble	(n) [ˈbʌbl] bong bóng, bọt
+budget	(n) [ˈbʌdʒɪt] ngân sách, kinh phí
+bug	(n) [bʌɡ] con bọ, côn trùng
+build	(v) [bɪld] xây dựng, xây
+building	(n) [ˈbɪldɪŋ] tòa nhà, công trình
+bullet	(n) [ˈbʊlɪt] đạn, viên đạn
+bunch	(n) [bʌntʃ] bó, cụm
+burn	(v) [bɜːrn] đốt cháy, thiêu đốt
+burst	(v) [bɜːrst] nổ, vỡ ra
+bury	(v) [ˈberi] chôn cất, mai táng
+bus	(n) [bʌs] xe buýt
+bush	(n) [bʊʃ] bụi cây, bụi rậm
+business	(n) [ˈbɪznəs] kinh doanh, doanh nghiệp
+busy	(adj) [ˈbɪzi] bận rộn, năng động
+but	(conj) [bʌt] nhưng, mà
+butter	(n) [ˈbʌtər] bơ
+butterfly	(n) [ˈbʌtəflaɪ] bướm
+button	(n) [ˈbʌtn] nút, cúc
+buy	(v) [baɪ] mua, mua vào
+buyer	(n) [ˈbaɪər] người mua, khách hàng
+by	(prep) [baɪ] bởi, bằng cách
+bye	(int) [baɪ] tạm biệt, tạm biệt nhé
+cab	(n) [kæb] taxi
+cabbage	(n) [ˈkæbɪdʒ] cải bắp
+cabin	(n) [ˈkæbɪn] cabin, buồng
+cabinet	(n) [ˈkæbɪnɪt] tủ, ngăn kéo
+cable	(n) [ˈkeɪbl] cáp, dây cáp
+cake	(n) [keɪk] bánh
+calculate	(v) [ˈkælkjʊleɪt] tính toán, tính
+calculation	(n) [ˌkælkjʊˈleɪʃn] sự tính toán, phép tính
+calendar	(n) [ˈkælɪndə(r)] lịch
+call	(v) [kɔːl] gọi điện thoại, gọi
+calm	(adj) [kɑːm] bình tĩnh, êm đềm
+camera	(n) [ˈkæmərə] máy ảnh, camera
+camp	(n) [kæmp] trại, cắm trại
+campaign	(n) [kæmˈpeɪn] chiến dịch, chiến dịch quảng cáo
+campus	(n) [ˈkæmpəs] khuôn viên trường đại học
+can	(modal v) [kæn] có thể, có khả năng
+cancel	(v) [ˈkænsəl] hủy bỏ, hủy
+cancer	(n) [ˈkænsə(r)] ung thư
+candidate	(n) [ˈkændɪdət] ứng viên, ứng cử viên
+candle	(n) [ˈkændl] nến
+candy	(n) [ˈkændi] kẹo
+cap	(n) [kæp] nón, mũ
+capable	(adj) [ˈkeɪpəbl] có khả năng, có năng lực
+capacity	(n) [kəˈpæsəti] năng lực, khả năng
+capital	(n) [ˈkæpɪtl] thủ đô, vốn
+captain	(n) [ˈkæptɪn] đội trưởng, thuyền trưởng
+capture	(v) [ˈkæptʃə(r)] bắt giữ, chiếm đoạt
+car	(n) [kɑːr] xe hơi, ô tô
+carbon	(n) [ˈkɑːrbən] carbon
+card	(n) [kɑːrd] thẻ, thẻ bài
+care	(n) [keə(r)] sự chăm sóc, sự quan tâm
+career	(n) [kəˈrɪə(r)] sự nghiệp, sự nghề nghiệp
+careful	(adj) [ˈkeərfəl] cẩn thận, cẩn trọng
+carefully	(adv) [ˈkeərfəli] cẩn thận, cẩn trọng
+carry	(v) [ˈkæri] mang, vác
+case	(n) [keɪs] trường hợp, tình huống
+cash	(n) [kæʃ] tiền mặt, tiền
+cast	(v) [kɑːst] ném, tung
+castle	(n) [ˈkæsl] lâu đài
+casual	(adj) [ˈkæʒuəl] thoải mái, bình thường
+casually	(adv) [ˈkæʒuəli] một cách thoải mái, bình thường
+cat	(n) [kæt] mèo
+catalogue	(n) [ˈkætəlɔːɡ] danh mục, sách mục
+catch	(v) [kætʃ] bắt, nắm bắt
+category	(n) [ˈkætɪɡəri] hạng mục, phân loại
+cause	(n) [kɔːz] nguyên nhân, lý do
+cease	(v) [siːs] ngừng, dừng lại
+ceiling	(n) [ˈsiːlɪŋ] trần nhà, nóc nhà
+celebrate	(v) [ˈselɪbreɪt] kỷ niệm, tổ chức
+celebration	(n) [ˌselɪˈbreɪʃn] sự kỷ niệm, lễ kỷ niệm
+cell	(n) [sel] tế bào, ô
+cellar	(n) [ˈselə(r)] hầm rượu, hầm
+cent	(n) [sent] xu, xu (đơn vị tiền tệ)
+center	(n) [ˈsentə(r)] trung tâm, trung tâm
+central	(adj) [ˈsentrəl] trung tâm, trung tâm
+century	(n) [ˈsentʃəri] thế kỷ, thế kỷ
+ceremony	(n) [ˈserəmoʊni] nghi lễ, lễ nghi
+certain	(adj) [ˈsɜːrtən] chắc chắn, chắc chắn
+certainly	(adv) [ˈsɜːrtənli] chắc chắn, nhất định
+chain	(n) [tʃeɪn] chuỗi, dây chuyền
+chair	(n) [tʃer] ghế, chức vụ
+chairman	(n) [ˈtʃer.mən] chủ tịch, chủ tịch
+challenge	(n) [ˈtʃælɪndʒ] thách thức, thách thức
+chamber	(n) [ˈtʃeɪmbər] phòng, buồng
+champion	(n) [ˈtʃæmpiən] nhà vô địch, nhà vô địch
+chance	(n) [tʃæns] cơ hội, cơ hội
+change	(v) [tʃeɪndʒ] thay đổi, thay đổi
+channel	(n) [ˈtʃænəl] kênh, kênh
+chaos	(n) [ˈkeɪɒs] hỗn loạn, hỗn độn
+chapter	(n) [ˈtʃæptər] chương, chương
+character	(n) [ˈkærəktər] nhân vật, tính cách
+characteristic	(adj) [ˌkærəktəˈrɪstɪk] đặc điểm, đặc tính
+charge	(v) [tʃɑːrdʒ] tính phí, tính phí
+charity	(n) [ˈtʃærəti] từ thiện, lòng nhân ái
+chart	(n) [tʃɑːrt] biểu đồ, biểu đồ
+chase	(v) [tʃeɪs] đuổi theo, truy đuổi
+cheap	(adj) [tʃiːp] rẻ, giá rẻ
+cheat	(v) [tʃiːt] lừa đảo, gian lận
+check	(v) [tʃek] kiểm tra, kiểm tra
+cheek	(n) [tʃiːk] má, má
+cheese	(n) [tʃiːz] pho mát, pho mát
+chef	(n) [ʃef] đầu bếp, đầu bếp
+chemical	(adj) [ˈkemɪkl] hóa học, hóa chất
+chemist	(n) [ˈkemɪst] nhà hóa học, nhà thuốc
+chemistry	(n) [ˈkemɪstri] hóa học, ngành hóa
+chest	(n) [tʃest] ngực, hòm
+chicken	(n) [ˈtʃɪkɪn] gà, thịt gà
+chief	(adj) [tʃiːf] chính, chủ yếu
+child	(n) [tʃaɪld] trẻ em, đứa trẻ
+childhood	(n) [ˈtʃaɪldhʊd] tuổi thơ, thời thơ ấu
+chill	(n) [tʃɪl] lạnh, sự lạnh
+chin	(n) [tʃɪn] cằm, cằm
+chip	(n) [tʃɪp] mảnh, mảnh
+chocolate	(n) [ˈtʃɒklət] sô cô la, chocolate
+choice	(n) [tʃɔɪs] sự lựa chọn, sự chọn lựa
+choose	(v) [tʃuːz] lựa chọn, chọn
+church	(n) [tʃɜːrtʃ] nhà thờ, nhà thờ
+cigarette	(n) [ˌsɪɡəˈret] điếu thuốc, điếu
+circle	(n) [ˈsɜːrkl] vòng tròn, vòng tròn
+circumstance	(n) [ˈsɜːrkəmstəns] hoàn cảnh, tình huống
+cite	(v) [saɪt] trích dẫn, dẫn
+citizen	(n) [ˈsɪtɪzn] công dân, công dân
+city	(n) [ˈsɪti] thành phố, thành phố
+civil	(adj) [ˈsɪvl] dân sự, dân sự
+civilian	(n) [sɪˈvɪliən] dân thường, dân sự
+claim	(v) [kleɪm] tuyên bố, đòi hỏi
+clash	(v) [klæʃ] va chạm, xung đột
+class	(n) [klæs] lớp, lớp học
+classic	(adj) [ˈklæsɪk] cổ điển, kinh điển
+classical	(adj) [ˈklæsɪkl] cổ điển, kinh điển
+classify	(v) [ˈklæsɪfaɪ] phân loại, phân loại
+classroom	(n) [ˈklæsruːm] lớp học, phòng học
+clean	(adj) [kliːn] sạch sẽ, sạch
+cleaning	(n) [ˈkliːnɪŋ] sự vệ sinh, việc làm vệ sinh
+clear	(adj) [klɪr] rõ ràng, sáng sủa
+clearly	(adv) [ˈklɪərli] rõ ràng, rõ ràng
+clerk	(n) [klɜːrk] nhân viên, thư ký
+click	(v) [klɪk] nhấp chuột, kích chuột
+client	(n) [ˈklaɪənt] khách hàng, người mua hàng
+climate	(n) [ˈklaɪmət] khí hậu, khí hậu
+climb	(v) [klaɪm] leo, trèo
+clinic	(n) [ˈklɪnɪk] phòng khám, phòng mạch
+clinical	(adj) [ˈklɪnɪkl] lâm sàng, thuộc về lâm sàng
+clock	(n) [klɒk] đồng hồ, cái đồng hồ
+close	(adj) [kləʊs] đóng cửa, gần
+closed	(adj) [kləʊzd] đóng cửa, đã đóng cửa
+closely	(adv) [ˈkləʊsli] kỹ lưỡng, chặt chẽ
+closet	(n) [ˈklɒzɪt] tủ, tủ quần áo
+cloth	(n) [klɒθ] vải, vải
+clothes	(n) [kləʊðz] quần áo, quần áo
+clothing	(n) [ˈkləʊðɪŋ] quần áo, quần áo
+cloud	(n) [klaʊd] đám mây, đám mây
+club	(n) [klʌb] câu lạc bộ, câu lạc bộ
+clue	(n) [kluː] manh mối, manh mối
+coach	(n) [kəʊtʃ] huấn luyện viên, huấn luyện viên
+coal	(n) [kəʊl] than, than đá
+coast	(n) [kəʊst] bờ biển, bờ biển
+coat	(n) [kəʊt] áo khoác, áo khoác
+code	(n) [kəʊd] mã, mã
+coffee	(n) [ˈkɒfi] cà phê, cà phê
+coin	(n) [kɔɪn] đồng xu, đồng xu
+cold	(adj) [kəʊld] lạnh, cảm lạnh
+collapse	(v) [kəˈlæps] sụp đổ, sụp đổ
+colleague	(n) [ˈkɒliːɡ] đồng nghiệp, đồng nghiệp
+collect	(v) [kəˈlekt] thu thập, sưu tập
+collection	(n) [kəˈlekʃn] bộ sưu tập, bộ sưu tập
+college	(n) [ˈkɒlɪdʒ] trường cao đẳng, trường đại học
+colour	(n) [ˈkʌlə(r)] màu sắc, màu
+column	(n) [ˈkɒləm] cột, cột
+combination	(n) [ˌkɒmbɪˈneɪʃn] sự kết hợp, sự kết hợp
+combine	(v) [kəmˈbaɪn] kết hợp, kết hợp
+come	(v) [kʌm] đến, đến
+comedy	(n) [ˈkɒmədi] hài kịch, hài hước
+comfort	(n) [ˈkʌmfərt] sự thoải mái, sự thoải mái
+comfortable	(adj) [ˈkʌmfətəbl] thoải mái, thoải mái
+command	(n) [kəˈmɑːnd] lệnh, lệnh
+comment	(n) [ˈkɒmənt] bình luận, ý kiến
+commercial	(adj) [kəˈmɜːʃl] thương mại, thương mại
+commission	(n) [kəˈmɪʃn] ủy ban, ủy ban
+commit	(v) [kəˈmɪt] cam kết, cam kết
+committee	(n) [kəˈmɪti] ủy ban, ủy ban
+common	(adj) [ˈkɒmən] phổ biến, thông thường
+communication	(n) [kəˌmjuːnɪˈkeɪʃn] giao tiếp, giao tiếp
+community	(n) [kəˈmjuːnəti] cộng đồng, cộng đồng
+company	(n) [ˈkʌmpəni] công ty, công ty
+compare	(v) [kəmˈpeə(r)] so sánh, so sánh
+comparison	(n) [kəmˈpærɪsn] sự so sánh, sự so sánh
+compete	(v) [kəmˈpiːt] cạnh tranh, thi đấu
+competition	(n) [ˌkɒmpɪˈtɪʃn] sự cạnh tranh, cuộc thi
+competitive	(adj) [kəmˈpetɪtɪv] cạnh tranh, cạnh tranh
+complain	(v) [kəmˈpleɪn] phàn nàn, than phiền
+complaint	(n) [kəmˈpleɪnt] sự phàn nàn, khiếu nại
+complete	(adj) [kəmˈpliːt] hoàn thành, hoàn chỉnh
+completely	(adv) [kəmˈpliːtli] hoàn toàn, hoàn toàn
+complex	(adj) [ˈkɒmpleks] phức tạp, phức tạp
+complicate	(v) [ˈkɒmplɪkeɪt] làm phức tạp, làm phức tạp
+complicated	(adj) [ˈkɒmplɪkeɪtɪd] phức tạp, phức tạp
+component	(n) [kəmˈpəʊnənt] thành phần, thành phần
+compose	(v) [kəmˈpəʊz] soạn, viết
+composition	(n) [ˌkɒmpəˈzɪʃn] sự soạn thảo, bài luận
+compound	(n) [ˈkɒmpaʊnd] hợp chất, hợp chất
+comprehensive	(adj) [ˌkɒmprɪˈhensɪv] toàn diện, toàn diện
+compress	(v) [kəmˈpres] nén, nén
+computer	(n) [kəmˈpjuːtə(r)] máy tính, máy tính
+concentrate	(v) [ˈkɒnsəntreɪt] tập trung, tập trung
+concentration	(n) [ˌkɒnsənˈtreɪʃn] sự tập trung, nồng độ
+concept	(n) [ˈkɒnsept] khái niệm, khái niệm
+concern	(n) [kənˈsɜːrn] quan tâm, quan tâm
+concerned	(adj) [kənˈsɜːrnd] quan tâm, lo lắng
+concert	(n) [ˈkɒnsərt] buổi hòa nhạc, buổi biểu diễn
+conclude	(v) [kənˈkluːd] kết luận, kết thúc
+conclusion	(n) [kənˈkluːʒn] kết luận, kết thúc
+concrete	(adj) [ˈkɒŋkriːt] bê tông, bê tông
+condition	(n) [kənˈdɪʃn] điều kiện, tình trạng
+conduct	(v) [kənˈdʌkt] tiến hành, thực hiện
+conference	(n) [ˈkɒnfərəns] hội nghị, hội nghị
+confidence	(n) [ˈkɒnfɪdəns] lòng tin, sự tự tin
+confident	(adj) [ˈkɒnfɪdənt] tự tin, tin tưởng
+confine	(v) [kənˈfaɪn] hạn chế, giam giữ
+confirm	(v) [kənˈfɜːrm] xác nhận, xác nhận
+conflict	(n) [ˈkɒnflɪkt] xung đột, va chạm
+confront	(v) [kənˈfrʌnt] đối mặt, đương đầu
+confuse	(v) [kənˈfjuːz] làm rối, làm bối rối
+confusion	(n) [kənˈfjuːʒn] sự rối, sự hoang mang
+congratulate	(v) [kənˈɡrætjʊleɪt] chúc mừng, chúc mừng
+congregation	(n) [ˌkɒŋɡrɪˈɡeɪʃn] giáo dân, giáo hội
+connect	(v) [kəˈnekt] kết nối, kết nối
+connection	(n) [kəˈnekʃn] kết nối, kết nối
+conscious	(adj) [ˈkɒnʃəs] tỉnh táo, có ý thức
+consciousness	(n) [ˈkɒnʃəsnəs] ý thức, ý thức
+consensus	(n) [kənˈsensəs] sự đồng thuận, sự thống nhất
+consent	(n) [kənˈsent] sự đồng ý, sự chấp nhận
+consequence	(n) [ˈkɒnsɪkwəns] hậu quả, hậu quả
+consequently	(adv) [ˈkɒnsɪkwəntli] do đó, vì vậy
+conservation	(n) [ˌkɒnsəˈveɪʃn] sự bảo tồn, sự bảo vệ
+conservative	(adj) [kənˈsɜːrvətɪv] bảo thủ, bảo thủ
+consider	(v) [kənˈsɪdə(r)] xem xét, cân nhắc
+considerable	(adj) [kənˈsɪdərəbl] đáng kể, đáng kể
+considerably	(adv) [kənˈsɪdərəbli] đáng kể, đáng kể
+consideration	(n) [kənˌsɪdəˈreɪʃn] sự xem xét, sự cân nhắc
+consist	(v) [kənˈsɪst] bao gồm, gồm có
+consistent	(adj) [kənˈsɪstənt] nhất quán, nhất quán
+constant	(adj) [ˈkɒnstənt] không đổi, ổn định
+constantly	(adv) [ˈkɒnstəntli] liên tục, không ngừng
+constitute	(v) [ˈkɒnstɪtjuːt] cấu thành, hình thành
+constitution	(n) [ˌkɒnstɪˈtjuːʃn] hiến pháp, cấu trúc
+construct	(v) [kənˈstrʌkt] xây dựng, xây dựng
+construction	(n) [kənˈstrʌkʃn] xây dựng, công trình xây dựng
+consult	(v) [kənˈsʌlt] tư vấn, tham khảo
+consultant	(n) [kənˈsʌltənt] tư vấn, chuyên gia tư vấn
+consume	(v) [kənˈsjuːm] tiêu thụ, sử dụng
+consumer	(n) [kənˈsjuːmə(r)] người tiêu dùng, người tiêu dùng
+consumption	(n) [kənˈsʌmpʃn] sự tiêu thụ, sự sử dụng
+contact	(n) [ˈkɒntækt] liên lạc, liên lạc
+contain	(v) [kənˈteɪn] chứa đựng, chứa đựng
+container	(n) [kənˈteɪnə(r)] container, thùng chứa
+contemporary	(adj) [kənˈtemprəri] đương thời, đương thời
+content	(adj) [ˈkɒntent] hài lòng, nội dung
+contest	(n) [ˈkɒntest] cuộc thi, cuộc thi
+context	(n) [ˈkɒntekst] ngữ cảnh, bối cảnh
+continue	(v) [kənˈtɪnjuː] tiếp tục, tiếp tục
+continuous	(adj) [kənˈtɪnjuəs] liên tục, liên tục
+contract	(n) [ˈkɒntrækt] hợp đồng, hợp đồng
+contrary	(adj) [ˈkɒntrəri] ngược lại, trái ngược
+contrast	(n) [ˈkɒntræst] sự tương phản, sự tương phản
+contribute	(v) [kənˈtrɪbjuːt] đóng góp, góp phần
+contribution	(n) [ˌkɒntrɪˈbjuːʃn] sự đóng góp, sự góp phần
+control	(v) [kənˈtrəʊl] kiểm soát, điều khiển
+convenient	(adj) [kənˈviːniənt] thuận tiện, tiện lợi
+convention	(n) [kənˈvenʃn] hội nghị, quy ước
+conventional	(adj) [kənˈvenʃənl] thông thường, theo quy ước
+conversation	(n) [ˌkɒnvəˈseɪʃn] cuộc trò chuyện, cuộc trò chuyện
+convert	(v) [kənˈvɜːt] chuyển đổi, chuyển đổi
+convince	(v) [kənˈvɪns] thuyết phục, thuyết phục
+cook	(n) [kʊk] đầu bếp, người nấu ăn
+cooker	(n) [ˈkʊkə(r)] nồi nấu, lò nấu
+cookie	(n) [ˈkʊki] bánh quy, bánh quy
+cooking	(n) [ˈkʊkɪŋ] nấu ăn, việc nấu ăn
+cool	(adj) [kuːl] mát mẻ, mát
+cooperate	(v) [kəʊˈɒpəreɪt] hợp tác, cộng tác
+cooperation	(n) [kəʊˌɒpəˈreɪʃn] sự hợp tác, sự cộng tác
+coordinate	(v) [kəʊˈɔːdɪneɪt] phối hợp, phối hợp
+cope	(v) [kəʊp] đối phó, đương đầu
+copy	(v) [ˈkɒpi] sao chép, bản sao
+core	(n) [kɔː(r)] hạt nhân, trung tâm
+corner	(n) [ˈkɔːnə(r)] góc, góc
+corporate	(adj) [ˈkɔːpərət] doanh nghiệp, công ty
+corporation	(n) [ˌkɔːpəˈreɪʃn] tập đoàn, công ty
+correct	(adj) [kəˈrekt] chính xác, đúng
+correspond	(v) [ˌkɒrɪˈspɒnd] tương ứng, tương ứng
+correspondence	(n) [ˌkɒrɪˈspɒndəns] thư từ, thư từ
+corridor	(n) [ˈkɒrɪdɔː(r)] hành lang, hành lang
+cost	(n) [kɒst] giá cả, chi phí
+costly	(adj) [ˈkɒstli] đắt đỏ, đắt tiền
+cottage	(n) [ˈkɒtɪdʒ] nhà tranh, nhà tranh
+cotton	[ˈkɒtn]	bông, vải cotton
+couch	(n) [kaʊtʃ] ghế sofa, giường
+cough	(n) [kɒf] ho, ho
+council	(n) [ˈkaʊnsl] hội đồng, hội đồng
+countryside	(n) [ˈkʌntrɪˌsaɪd] nông thôn, vùng quê
+couple	(n) [ˈkʌpl] cặp, đôi
+courage	(n) [ˈkʌrɪdʒ] lòng can đảm, dũng cảm
+course	(n) [kɔːs] khóa học, chương trình học
+court	(n) [kɔːt] tòa án, sân tennis
+cousin	(n) [ˈkʌzn] anh em họ, anh em họ
+cover	(v) [ˈkʌvə(r)] che phủ, bao phủ
+coverage	(n) [ˈkʌvərɪdʒ] phạm vi, bảo hiểm
+cow	(n) [kaʊ] con bò, bò cái
+crack	(n) [kræk] nứt, nứt
+craft	(n) [krɑːft] nghề, nghệ thuật
+crash	(v) [kræʃ] đâm, va chạm
+crawl	(v) [krɔːl] bò, trườn
+crazy	(adj) [ˈkreɪzi] điên, điên rồ
+cream	(n) [kriːm] kem, kem
+create	(v) [kriˈeɪt] tạo ra, sáng tạo
+creation	(n) [kriˈeɪʃn] sự tạo ra, sự sáng tạo
+creative	(adj) [kriˈeɪtɪv] sáng tạo, sáng tạo
+creature	(n) [ˈkriːtʃə(r)] sinh vật, sinh vật
+credit	(n) [ˈkredɪt] tín dụng, sự ghi công
+crew	(n) [kruː] phi hành đoàn, đội ngũ
+crime	(n) [kraɪm] tội ác, tội phạm
+criminal	(n) [ˈkrɪmɪnl] tội phạm, phạm nhân
+crisis	(n) [ˈkraɪsɪs] khủng hoảng, cuộc khủng hoảng
+criteria	(n) [kraɪˈtɪəriə] tiêu chí, tiêu chuẩn
+critic	(n) [ˈkrɪtɪk] nhà phê bình, nhà phê bình
+critical	(adj) [ˈkrɪtɪkl] quan trọng, quan trọng
+criticism	(n) [ˈkrɪtɪsɪzəm] sự phê bình, sự chỉ trích
+criticize	(v) [ˈkrɪtɪsaɪz] phê bình, chỉ trích
+crop	(n) [krɒp] mùa màng, vụ mùa
+cross	(v) [krɒs] băng qua, vượt qua
+crowd	(n) [kraʊd] đám đông, đám đông
+crucial	(adj) [ˈkruːʃl] quan trọng, quyết định
+cruel	(adj) [ˈkruːəl] tàn nhẫn, độc ác
+cruise	(n) [kruːz] cuộc du ngoạn, chuyến đi du ngoạn
+crush	(v) [krʌʃ] nghiền, đè nát
+cry	(v) [kraɪ] khóc, gào khóc
+crystal	(n) [ˈkrɪstl] pha lê, tinh thể
+cube	(n) [kjuːb] khối, hình lập phương
+cultural	(adj) [ˈkʌltʃərəl] văn hóa, văn hóa
+culture	(n) [ˈkʌltʃə(r)] văn hóa, văn hóa
+cup	(n) [kʌp] cốc, ly
+cupboard	(n) [ˈkʌbə(r)d] tủ, tủ quần áo
+curb	(n) [kɜːb] vỉa hè, bờ vỉa
+curious	(adj) [ˈkjʊəriəs] tò mò, hiếu kỳ
+curl	(v) [kɜːl] xoắn, uốn
+currency	(n) [ˈkʌrənsi] tiền tệ, đơn vị tiền tệ
+current	(adj) [ˈkʌrənt] hiện tại, hiện thời
+currently	(adv) [ˈkʌrəntli] hiện nay, hiện tại
+curtain	(n) [ˈkɜːtn] rèm, màn cửa
+curve	(n) [kɜːv] đường cong, đường cong
+custom	(n) [ˈkʌstəm] phong tục, phong tục
+customer	(n) [ˈkʌstəmə(r)] khách hàng, người mua
+customary	(adj) [ˈkʌstəmeri] thông thường, thông thường
+customize	(v) [ˈkʌstəmaɪz] tùy chỉnh, điều chỉnh theo yêu cầu
+cut	(v) [kʌt] cắt, cắt
+cycle	(n) [ˈsaɪkl] chu kỳ, chu kỳ
+cycling	(n) [ˈsaɪklɪŋ] đạp xe, đua xe đạp
+cyclist	(n) [ˈsaɪklɪst] người đạp xe, tay đua xe đạp
+cylinder	(n) [ˈsɪlɪndər] xi lanh, hình trụ
+dad	(n) [dæd] bố, cha
+daily	(adj) [ˈdeɪli] hàng ngày, hàng ngày
+damage	(n) [ˈdæmɪdʒ] thiệt hại, tổn thất
+dance	(n) [dæns] khiêu vũ, động tác
+danger	(n) [ˈdeɪndʒə(r)] nguy hiểm, nguy hiểm
+dangerous	(adj) [ˈdeɪndʒərəs] nguy hiểm, nguy hiểm
+dark	(adj) [dɑːk] tối, tối
+darkness	(n) [ˈdɑːknəs] sự tối, sự tối
+data	(n) [ˈdeɪtə] dữ liệu, dữ liệu
+database	(n) [ˈdeɪtəbeɪs] cơ sở dữ liệu, cơ sở dữ liệu
+date	(n) [deɪt] ngày, cuộc hẹn
+daughter	(n) [ˈdɔːtə(r)] con gái, con gái
+day	(n) [deɪ] ngày, ngày
+dead	(adj) [ded] chết, chết
+deal	(n) [diːl] giao dịch, thỏa thuận
+dealer	(n) [ˈdiːlə(r)] người bán, người môi giới
+dear	(adj) [dɪə(r)] thân yêu, đáng yêu
+death	(n) [deθ] cái chết, sự chết
+debate	(n) [dɪˈbeɪt] cuộc tranh luận, cuộc tranh luận
+debt	(n) [det] nợ, nợ
+decade	(n) [ˈdekeɪd] thập kỷ, thập kỷ
+decay	(n) [dɪˈkeɪ] suy tàn, sự phân hủy
+December	(n) [dɪˈsembə(r)] tháng mười hai, tháng mười hai
+decide	(v) [dɪˈsaɪd] quyết định, quyết định
+decision	(n) [dɪˈsɪʒn] quyết định, sự quyết định
+declare	(v) [dɪˈkleə(r)] tuyên bố, tuyên bố
+decline	(v) [dɪˈklaɪn] suy giảm, sự suy giảm
+decorate	(v) [ˈdekəreɪt] trang trí, trang trí
+decoration	(n) [ˌdekəˈreɪʃn] trang trí, đồ trang trí
+decorative	(adj) [ˈdekərətɪv] trang trí, trang trí
+decrease	(n) [dɪˈkriːs] sự giảm, sự giảm
+deep	(adj) [diːp] sâu, sâu
+deeply	(adv) [ˈdiːpli] sâu, sâu
+deer	(n) [dɪə(r)] nai, nai
+defeat	(n) [dɪˈfiːt] thất bại, thất bại
+defend	(v) [dɪˈfend] bảo vệ, bảo vệ
+define	(v) [dɪˈfaɪn] định nghĩa, xác định
+definite	(adj) [ˈdefɪnət] rõ ràng, chắc chắn
+definitely	(adv) [ˈdefɪnɪtli] chắc chắn, nhất định
+definition	(n) [ˌdefɪˈnɪʃn] định nghĩa, định nghĩa
+degree	(n) [dɪˈɡriː] bằng cấp, mức độ
+delay	(n) [dɪˈleɪ] sự trì hoãn, sự trễ
+deliver	(v) [dɪˈlɪvə(r)] giao hàng, phân phát
+delivery	(n) [dɪˈlɪvəri] giao hàng, phân phát
+demand	(n) [dɪˈmænd] nhu cầu, yêu cầu
+democracy	(n) [dɪˈmɒkrəsi] dân chủ, chế độ dân chủ
+democratic	(adj) [ˌdeməˈkrætɪk] thuộc về dân chủ
+demonstrate	(v) [ˈdemənstreɪt] chứng minh, biểu tình
+demonstration	(n) [ˌdemənˈstreɪʃn] cuộc biểu tình, sự chứng minh
+dense	(adj) [dens] dày đặc, đậm đặc
+density	(n) [ˈdensəti] mật độ, nồng độ
+deny	(v) [dɪˈnaɪ] phủ nhận, từ chối
+department	(n) [dɪˈpɑːtmənt] bộ phận, phòng ban
+depend	(v) [dɪˈpend] phụ thuộc, dựa vào
+dependent	(adj) [dɪˈpendənt] phụ thuộc, dựa vào
+deposit	(n) [dɪˈpɒzɪt] tiền gửi, đặt cọc
+depression	(n) [dɪˈpreʃn] trầm cảm, suy thoái
+depth	(n) [depθ] độ sâu, chiều sâu
+derive	(v) [dɪˈraɪv] xuất phát, bắt nguồn
+describe	(v) [dɪˈskraɪb] mô tả, miêu tả
+description	(n) [dɪˈskrɪpʃn] sự mô tả, miêu tả
+desert	(n) [ˈdezət] sa mạc, vùng sa mạc
+deserve	(v) [dɪˈzɜːv] xứng đáng, đáng được
+design	(n) [dɪˈzaɪn] thiết kế, kế hoạch
+designer	(n) [dɪˈzaɪnə(r)] nhà thiết kế, người thiết kế
+desire	(n) [dɪˈzaɪə(r)] mong muốn, khao khát
+desk	(n) [desk] bàn làm việc, bàn làm việc
+desktop	(n) [ˈdesktɒp] máy tính để bàn, máy tính để bàn
+destination	(n) [ˌdestɪˈneɪʃn] điểm đến, đích đến
+destroy	(v) [dɪˈstrɔɪ] phá hủy, tiêu diệt
+destruction	(n) [dɪˈstrʌkʃn] sự phá hủy, sự tiêu diệt
+detail	(n) [ˈdiːteɪl] chi tiết, chi tiết
+detailed	(adj) [ˈdiːteɪld] chi tiết, cụ thể
+detect	(v) [dɪˈtekt] phát hiện, nhận ra
+detection	(n) [dɪˈtekʃn] sự phát hiện, sự nhận biết
+determine	(v) [dɪˈtɜːmɪn] xác định, quyết định
+determined	(adj) [dɪˈtɜːmɪnd] quyết tâm, kiên quyết
+develop	(v) [dɪˈveləp] phát triển, phát triển
+development	(n) [dɪˈveləpmənt] sự phát triển, sự phát triển
+device	(n) [dɪˈvaɪs] thiết bị, thiết bị
+devote	(v) [dɪˈvəʊt] dành, hiến dâng
+diagram	(n) [ˈdaɪəɡræm] biểu đồ, sơ đồ
+dial	(n) [ˈdaɪəl] đĩa số, bàn xoay
+dialogue	(n) [ˈdaɪəlɒɡ] đối thoại, cuộc trò chuyện
+diamond	(n) [ˈdaɪəmənd] kim cương, viên kim cương
+diary	(n) [ˈdaɪəri] nhật ký, sổ tay
+dictionary	(n) [ˈdɪkʃənəri] từ điển, từ điển
+diet	(n) [ˈdaɪət] chế độ ăn uống, chế độ ăn kiêng
+differ	(v) [ˈdɪfə(r)] khác nhau, khác biệt
+difference	(n) [ˈdɪfərəns] sự khác biệt, sự khác nhau
+different	(adj) [ˈdɪfrənt] khác nhau, khác biệt
+difficult	(adj) [ˈdɪfɪkəlt] khó khăn, khó khăn
+difficulty	(n) [ˈdɪfɪkəlti] khó khăn, khó khăn
+dig	(v) [dɪɡ] đào, đào
+digital	(adj) [ˈdɪdʒɪtl] kỹ thuật số, số hóa
+dimension	(n) [dɪˈmenʃn] chiều, kích thước
+diminish	(v) [dɪˈmɪnɪʃ] giảm bớt, làm suy giảm
+dine	(v) [daɪn] ăn tối, dùng bữa tối
+dining	(n) [ˈdaɪnɪŋ] ăn, bữa ăn
+dinner	(n) [ˈdɪnə(r)] bữa tối, bữa tối
+diplomat	(n) [ˈdɪpləmæt] nhà ngoại giao, nhà ngoại giao
+direct	(adj) [dɪˈrekt] trực tiếp, thẳng thừng
+direction	(n) [dɪˈrekʃn] hướng, phương hướng
+directly	(adv) [dɪˈrektli] trực tiếp, một cách trực tiếp
+director	(n) [dɪˈrektə(r)] giám đốc, đạo diễn
+dirt	(n) [dɜːt] bụi bặm, bẩn thỉu
+dirty	(adj) [ˈdɜːti] bẩn, dơ bẩn
+disability	(n) [ˌdɪsəˈbɪləti] khuyết tật, sự tàn tật
+disabled	(adj) [dɪsˈeɪbld] khuyết tật, bị tàn tật
+disagree	(v) [ˌdɪsəˈɡriː] không đồng ý, không đồng ý
+disappear	(v) [ˌdɪsəˈpɪə(r)] biến mất, biến mất
+disappoint	(v) [ˌdɪsəˈpɔɪnt] làm thất vọng, làm thất vọng
+disappointed	(adj) [ˌdɪsəˈpɔɪntɪd] thất vọng, thất vọng
+disappointing	(adj) [ˌdɪsəˈpɔɪntɪŋ] thất vọng, thất vọng
+disappointment	(n) [ˌdɪsəˈpɔɪntmənt] sự thất vọng, sự thất vọng
+disaster	(n) [dɪˈzɑːstə(r)] thảm họa, tai họa
+disc	(n) [dɪsk] đĩa, đĩa
+discipline	(n) [ˈdɪsɪplɪn] kỷ luật, kỷ luật
+discount	(n) [ˈdɪskaʊnt] giảm giá, chiết khấu
+discover	(v) [dɪˈskʌvə(r)] khám phá, phát hiện
+discovery	(n) [dɪˈskʌvəri] sự khám phá, sự phát hiện
+discuss	(v) [dɪˈskʌs] thảo luận, bàn luận
+discussion	(n) [dɪˈskʌʃn] cuộc thảo luận, cuộc trao đổi
+disease	(n) [dɪˈziːz] bệnh, căn bệnh
+disgust	(n) [dɪsˈɡʌst] sự kinh tởm, sự ghê tởm
+disgusted	(adj) [dɪsˈɡʌstɪd] kinh tởm, ghê tởm
+disgusting	(adj) [dɪsˈɡʌstɪŋ] kinh tởm, ghê tởm
+dish	(n) [dɪʃ] đĩa, đĩa
+disk	(n) [dɪsk] đĩa, ổ đĩa
+dismiss	(v) [dɪsˈmɪs] sa thải, giải tán
+display	(v) [dɪˈspleɪ] trưng bày, hiển thị
+dispute	(n) [dɪˈspjuːt] tranh cãi, mâu thuẫn
+distance	(n) [ˈdɪstəns] khoảng cách, khoảng cách
+distant	(adj) [ˈdɪstənt] xa xôi, xa cách
+distinct	(adj) [dɪˈstɪŋkt] rõ ràng, khác biệt
+distinction	(n) [dɪˈstɪŋkʃn] sự khác biệt, sự phân biệt
+distinguish	(v) [dɪˈstɪŋɡwɪʃ] phân biệt, nhận biết
+distribute	(v) [dɪˈstrɪbjuːt] phân phối, phân phát
+distribution	(n) [ˌdɪstrɪˈbjuːʃn] phân phối, sự phân phát
+district	(n) [ˈdɪstrɪkt] quận, huyện
+disturb	(v) [dɪˈstɜːb] làm phiền, quấy rầy
+disturbance	(n) [dɪˈstɜːbəns] sự làm phiền, sự quấy rầy
+divide	(v) [dɪˈvaɪd] chia, phân chia
+division	(n) [dɪˈvɪʒn] phân chia, phần chia
+divorce	(n) [dɪˈvɔːs] ly hôn, sự ly hôn
+do	(v) [duː] làm, thực hiện
+doctor	(n) [ˈdɒktə(r)] bác sĩ, bác sĩ
+document	(n) [ˈdɒkjʊmənt] tài liệu, văn bản
+dog	(n) [dɒɡ] con chó, chó
+dollar	(n) [ˈdɒlə(r)] đô la, đô la
+domestic	(adj) [dəˈmestɪk] trong nước, nội địa
+dominance	(n) [ˈdɒmɪnəns] sự chiếm ưu thế, sự ưu thế
+dominant	(adj) [ˈdɒmɪnənt] chiếm ưu thế, ưu thế
+dominate	(v) [ˈdɒmɪneɪt] chiếm ưu thế, thống trị
+door	(n) [dɔː(r)] cửa, cửa
+dot	(n) [dɒt] chấm, dấu chấm
+double	(adj) [ˈdʌbl] gấp đôi, kép
+doubt	(n) [daʊt] nghi ngờ, nghi ngờ
+down	(adv) [daʊn] xuống, xuống
+downtown	(adj) [ˈdaʊntaʊn] trung tâm thành phố, khu trung tâm
+dozen	(n) [ˈdʌzən] tá, tá
+draft	(n) [drɑːft] bản nháp, bản thảo
+drag	(v) [dræɡ] kéo, lôi
+drama	(n) [ˈdrɑːmə] kịch, vở kịch
+dramatic	(adj) [drəˈmætɪk] kịch tính, ấn tượng
+draw	(v) [drɔː] vẽ, rút thăm
+drawing	(n) [ˈdrɔːɪŋ] bản vẽ, hình vẽ
+dream	(n) [driːm] giấc mơ, ước mơ
+dress	(n) [dres] váy, trang phục
+dressed	(adj) [drest] ăn mặc, mặc đồ
+drink	(n) [drɪŋk] đồ uống, thức uống
+drive	(v) [draɪv] lái xe, lái xe
+driver	(n) [ˈdraɪvə(r)] tài xế, người lái xe
+drop	(v) [drɒp] rơi, rơi xuống
+drug	(n) [drʌɡ] thuốc, ma túy
+drunk	(adj) [drʌŋk] say rượu, say
+dry	(adj) [draɪ] khô, khô
+due	(adj) [djuː] đến hạn, cần phải trả
+dull	(adj) [dʌl] đần độn, chậm hiểu
+during	(pre) [ˈdjʊərɪŋ] trong, trong suốt
+dust	(n) [dʌst] bụi, bụi bặm
+duty	(n) [ˈdjuːti] nhiệm vụ, trách nhiệm
+dynamic	(adj) [daɪˈnæmɪk] năng động, linh hoạt
+each	(det) [iːtʃ] mỗi, từng
+eager	(adj) [ˈiːɡə(r)] háo hức, hăng hái
+ear	(n) [ɪə(r)] tai, tai
+early	(adj) [ˈɜːli] sớm, sớm
+earn	(v) [ɜːn] kiếm được, thu được
+earth	(n) [ɜːθ] trái đất, đất đai
+ease	(n) [iːs] sự dễ dàng, sự thoải mái
+easily	(adv) [ˈiːzɪli] dễ dàng, dễ dàng
+east	(n) [iːst] phía đông, hướng đông
+eastern	(adj) [ˈiːstə(r)n] phía đông, miền đông
+easy	(adj) [ˈiːzi] dễ dàng, dễ dàng
+eat	(v) [iːt] ăn, ăn
+economic	(adj) [ˌiːkəˈnɒmɪk] kinh tế, về kinh tế
+economics	(n) [ˌiːkəˈnɒmɪks] kinh tế học, kinh tế học
+economist	(n) [ˈiːkənəmɪst] nhà kinh tế học, nhà kinh tế học
+economy	(n) [ɪˈkɒnəmi] nền kinh tế, nền kinh tế
+edge	(n) [edʒ] cạnh, mép
+edition	(n) [ɪˈdɪʃn] phiên bản, bản in
+editor	(n) [ˈedɪtə(r)] biên tập viên, biên tập viên
+educate	(v) [ˈedjʊkeɪt] giáo dục, dạy dỗ
+education	(n) [ˌedjʊˈkeɪʃn] giáo dục, sự giáo dục
+educational	(adj) [ˌedjʊˈkeɪʃənl] giáo dục, về giáo dục
+educator	(n) [ˈedjʊkeɪtə(r)] nhà giáo dục, nhà giáo dục
+effect	(n) [ɪˈfekt] hiệu ứng, tác động
+effective	(adj) [ɪˈfektɪv] hiệu quả, có hiệu lực
+effectively	(adv) [ɪˈfektɪvli] hiệu quả, một cách hiệu quả
+efficiency	(n) [ɪˈfɪʃənsi] hiệu suất, hiệu quả
+efficient	(adj) [ɪˈfɪʃnt] hiệu quả, hiệu suất
+effort	(n) [ˈefət] nỗ lực, cố gắng
+egg	(n) [eɡ] trứng, quả trứng
+eight	(num) [eɪt] tám, số tám
+eighteen	(num) [ˌeɪˈtiːn] mười tám, số mười tám
+eighth	(num) [eɪtθ] thứ tám, thứ tám
+eighty	(num) [ˈeɪti] tám mươi, số tám mươi
+either	(det) [ˈaɪðə(r)] cả hai, bất kỳ
+elbow	(n) [ˈelbəʊ] khuỷu tay, khuỷu tay
+elderly	(adj) [ˈeldəli] người già, người cao tuổi
+elect	(v) [ɪˈlekt] bầu cử, bầu cử
+election	(n) [ɪˈlekʃn] cuộc bầu cử, bầu cử
+electric	(adj) [ɪˈlektrɪk] điện, điện
+electrical	(adj) [ɪˈlektrɪkl] điện, điện
+electricity	(n) [ɪˌlekˈtrɪsɪti] điện, điện
+electronic	(adj) [ɪˌlekˈtrɒnɪk] điện tử, điện tử
+element	(n) [ˈelɪmənt] yếu tố, nguyên tố
+elevator	(n) [ˈelɪveɪtə(r)] thang máy, thang máy
+eleven	(num) [ɪˈlevən] mười một, số mười một
+else	(adv) [els] khác, khác
+elsewhere	(adv) [ˌelsˈweə(r)] ở nơi khác, ở đâu khác
+email	(n) [ˈiːmeɪl] thư điện tử, email
+embarrass	(v) [ɪmˈbærəs] làm xấu hổ, làm ngượng ngùng
+embarrassing	(adj) [ɪmˈbærəsɪŋ] xấu hổ, ngượng ngùng
+embarrassment	(n) [ɪmˈbærəsmənt] sự xấu hổ, sự ngượng ngùng
+emergency	(n) [ɪˈmɜːdʒənsi] tình trạng khẩn cấp, tình huống khẩn cấp
+emission	(n) [ɪˈmɪʃn] phát thải, sự phát ra
+emotion	(n) [ɪˈməʊʃn] cảm xúc, tình cảm
+emotional	(adj) [ɪˈməʊʃənl] cảm động, xúc động
+emphasis	(n) [ˈemfəsɪs] sự nhấn mạnh, sự tôn trọng
+emphasize	(v) [ˈemfəsaɪz] nhấn mạnh, làm nổi bật
+empire	(n) [ˈempaɪə(r)] đế chế, đế quốc
+employ	(v) [ɪmˈplɔɪ] sử dụng, thuê người làm
+employee	(n) [ɪmˈplɔɪiː] nhân viên, người làm việc
+employer	(n) [ɪmˈplɔɪə(r)] nhà tuyển dụng, người sử dụng lao động
+employment	(n) [ɪmˈplɔɪmənt] việc làm, sự thuê người làm
+empty	(adj) [ˈempti] trống, rỗng
+enable	(v) [ɪˈneɪbl] cho phép, làm cho có thể
+encounter	(v) [ɪnˈkaʊntə(r)] gặp phải, gặp gỡ
+encourage	(v) [ɪnˈkʌrɪdʒ] khuyến khích, động viên
+end	(n) [end] cuối cùng, kết thúc
+ending	(n) [ˈendɪŋ] kết thúc, phần kết
+enemy	(n) [ˈenəmi] kẻ thù, kẻ địch
+energy	(n) [ˈenədʒi] năng lượng, sinh lực
+engage	(v) [ɪnˈɡeɪdʒ] tham gia, cam kết
+engagement	(n) [ɪnˈɡeɪdʒmənt] sự tham gia, sự cam kết
+engine	(n) [ˈendʒɪn] động cơ, máy móc
+engineer	(n) [ˌendʒɪˈnɪə(r)] kỹ sư, kỹ sư
+engineering	(n) [ˌendʒɪˈnɪərɪŋ] kỹ thuật, ngành kỹ sư
+enhance	(v) [ɪnˈhæns] nâng cao, tăng cường
+enjoy	(v) [ɪnˈdʒɔɪ] thích, tận hưởng
+enormous	(adj) [ɪˈnɔːməs] khổng lồ, to lớn
+enough	(adj) [ɪˈnʌf] đủ, đủ
+ensure	(v) [ɪnˈʃʊə(r)] đảm bảo, chắc chắn
+enter	(v) [ˈentə(r)] đi vào, nhập vào
+enterprise	(n) [ˈentəpraɪz] doanh nghiệp, doanh nghiệp
+entertainment	(n) [ˌentəˈteɪnmənt] giải trí, sự giải trí
+enthusiasm	(n) [ɪnˈθjuːziæzəm] lòng nhiệt huyết, sự hăng hái
+enthusiastic	(adj) [ɪnˌθjuːziˈæstɪk] nhiệt huyết, hăng hái
+entire	(adj) [ɪnˈtaɪə(r)] toàn bộ, toàn bộ
+entirely	(adv) [ɪnˈtaɪəli] hoàn toàn, toàn bộ
+entitle	(v) [ɪnˈtaɪtl] đề xuất, đặc quyền
+entity	(n) [ˈentəti] thực thể, thực thể
+entrance	(n) [ˈentrəns] lối vào, cửa vào
+entry	(n) [ˈentrɪ] đăng ký, bản ghi
+environment	(n) [ɪnˈvaɪrənmənt] môi trường, môi trường
+environmental	(adj) [ɪnˌvaɪrənˈmentl] môi trường, môi trường
+episode	(n) [ˈɪpɪsəʊd] tập phim, tập
+equal	(adj) [ˈiːkwəl] bằng nhau, bằng nhau
+equally	(adv) [ˈiːkwəli] bằng nhau, bằng nhau
+equipment	(n) [ɪˈkwɪpmənt] thiết bị, trang thiết bị
+equivalent	(adj) [ɪˈkwɪvələnt] tương đương, đương đương
+error	(n) [ˈerə(r)] lỗi, sai lầm
+escape	(v) [ɪˈskeɪp] trốn thoát, thoát
+especially	(adv) [ɪˈspeʃəli] đặc biệt, đặc biệt
+essay	(n) [ˈeseɪ] bài luận, bài tiểu luận
+essential	(adj) [ɪˈsenʃl] cần thiết, quan trọng
+essentially	(adv) [ɪˈsenʃli] về cơ bản, về cơ bản
+establish	(v) [ɪˈstæblɪʃ] thành lập, thiết lập
+establishment	(n) [ɪˈstæblɪʃmənt] sự thành lập, cơ sở
+estate	(n) [ɪˈsteɪt] bất động sản, tài sản
+estimate	(v) [ˈestɪmeɪt] ước tính, ước tính
+etc	(adv) [etˈsetərə] vân vân, và các khác
+ethical	(adj) [ˈeθɪkl] đạo đức, đạo đức
+ethnic	(adj) [ˈeθnɪk] dân tộc, dân tộc
+europe	(n) [ˈjʊərəp] châu Âu, châu Âu
+european	(adj) [jʊərəˈpiːən] châu Âu, người châu Âu
+even	(adv) [ˈiːvn] thậm chí, ngay cả
+evening	(n) [ˈiːvnɪŋ] buổi tối, tối
+event	(n) [ɪˈvent] sự kiện, sự kiện
+eventually	(adv) [ɪˈventʃuəli] cuối cùng, sau cùng
+ever	(adv) [ˈevə(r)] từng, từng
+every	(det) [ˈevri] mỗi, mọi
+everybody	(pro) [ˈevribɒdi] mọi người, tất cả mọi người
+everyone	(pro) [ˈevriwʌn] mọi người, tất cả mọi người
+everything	(pro) [ˈevriθɪŋ] mọi thứ, tất cả mọi thứ
+everywhere	(adv) [ˈevriweə(r)] khắp mọi nơi, ở khắp mọi nơi
+evidence	(n) [ˈevɪdəns] bằng chứng, chứng cứ
+evolution	(n) [ˌiːvəˈluːʃn] sự tiến hóa, tiến triển
+evolve	(v) [ɪˈvɒlv] tiến hóa, phát triển
+exact	(adj) [ɪɡˈzækt] chính xác, đúng
+exactly	(adv) [ɪɡˈzæktli] chính xác, đúng
+exam	(n) [ɪɡˈzæm] kỳ thi, bài kiểm tra
+examination	(n) [ɪɡˌzæmɪˈneɪʃn] kỳ thi, sự kiểm tra
+examine	(v) [ɪɡˈzæmɪn] kiểm tra, xem xét
+example	(n) [ɪɡˈzɑːmpl] ví dụ, mẫu
+exceed	(v) [ɪkˈsiːd] vượt qua, vượt quá
+excellent	(adj) [ˈeksələnt] xuất sắc, tuyệt vời
+except	(pre) [ɪkˈsept] trừ, ngoại trừ
+exception	(n) [ɪkˈsepʃn] ngoại lệ, trường hợp ngoại lệ
+exchange	(v) [ɪksˈtʃeɪndʒ] trao đổi, hoán đổi
+excite	(v) [ɪkˈsaɪt] kích thích, làm phấn khích
+excitement	(n) [ɪkˈsaɪtmənt] sự phấn khích, hào hứng
+exciting	(adj) [ɪkˈsaɪtɪŋ] hứng thú, gây phấn khích
+exclude	(v) [ɪkˈskluːd] loại trừ, không tính đến
+exclusive	(adj) [ɪkˈskluːsɪv] độc quyền, riêng biệt
+excuse	(n) [ɪkˈskjuːs] lời xin lỗi, lí do
+execute	(v) [ˈeksɪkjuːt] thực hiện, thi hành
+execution	(n) [ˌeksɪˈkjuːʃn] sự thực hiện, sự thi hành
+executive	(adj) [ɪɡˈzekjətɪv] hành chính, hành chính
+exercise	(n) [ˈeksəsaɪz] bài tập, việc tập luyện
+exert	(v) [ɪɡˈzɜːt] gắng sức, đề nghị
+exhibit	(v) [ɪɡˈzɪbɪt] trưng bày, trình bày
+exhibition	(n) [ˌeksɪˈbɪʃn] cuộc triển lãm, sự trưng bày
+exist	(v) [ɪɡˈzɪst] tồn tại, có mặt
+existence	(n) [ɪɡˈzɪstəns] sự tồn tại, sự sống
+exit	(n) [ˈeksɪt] lối ra, cửa ra
+expand	(v) [ɪkˈspænd] mở rộng, mở rộng
+expansion	(n) [ɪkˈspænʃn] sự mở rộng, sự mở rộng
+expect	(v) [ɪkˈspekt] mong đợi, hy vọng
+expectation	(n) [ˌekspekˈteɪʃn] kỳ vọng, sự mong đợi
+expense	(n) [ɪkˈspens] chi phí, chi phí
+expensive	(adj) [ɪkˈspensɪv] đắt tiền, đắt tiền
+experience	(n) [ɪkˈspɪəriəns] kinh nghiệm, trải nghiệm
+experiment	(n) [ɪkˈsperɪmənt] thí nghiệm, cuộc thử nghiệm
+experimental	(adj) [ɪkˌsperɪˈmentl] thử nghiệm, thí nghiệm
+expert	(n) [ˈekspɜːt] chuyên gia, người có chuyên môn
+explain	(v) [ɪkˈspleɪn] giải thích, làm sáng tỏ
+explanation	(n) [ˌekspləˈneɪʃn] sự giải thích, lời giải thích
+explode	(v) [ɪkˈspləʊd] nổ tung, phát nổ
+explore	(v) [ɪkˈsplɔːr] khám phá, thám hiểm
+export	(v) [ɪkˈspɔːt] xuất khẩu, xuất khẩu
+expose	(v) [ɪkˈspəʊz] phơi bày, tiết lộ
+exposure	(n) [ɪkˈspəʊʒə(r)] sự tiếp xúc, sự phơi bày
+express	(v) [ɪkˈspres] diễn đạt, biểu lộ
+expression	(n) [ɪkˈspreʃn] sự diễn đạt, biểu hiện
+extend	(v) [ɪkˈstend] mở rộng, mở rộng
+extension	(n) [ɪkˈstenʃn] sự mở rộng, sự mở rộng
+extent	(n) [ɪkˈstent] phạm vi, mức độ
+extra	(adj) [ˈekstrə] thêm, phụ
+extraordinary	(adj) [ɪkˈstrɔːdəneri] phi thường, đặc biệt
+extreme	(adj) [ɪkˈstriːm] cực đoan, cực kỳ
+extremely	(adv) [ɪkˈstriːmli] cực kỳ, vô cùng
+eye	(n) [aɪ] mắt, con mắt
+eyebrow	(n) [ˈaɪbraʊ] lông mày, lông mày
+face	(n) [feɪs] khuôn mặt, mặt
+facility	(n) [fəˈsɪləti] cơ sở, tiện ích
+fact	(n) [fækt] sự thật, thực tế
+factor	(n) [ˈfæktə(r)] yếu tố, nhân tố
+factory	(n) [ˈfæktəri] nhà máy, xưởng sản xuất
+fail	(v) [feɪl] thất bại, không đạt được
+failure	(n) [ˈfeɪljə(r)] sự thất bại, thất bại
+fair	(adj) [feə(r)] công bằng, công bằng
+fairly	(adv) [ˈfeə(r)li] công bằng, hợp lý
+faith	(n) [feɪθ] niềm tin, đức tin
+fall	(v) [fɔːl] rơi, ngã
+familiar	(adj) [fəˈmɪliə(r)] quen thuộc, quen thuộc
+family	(n) [ˈfæməli] gia đình, gia đình
+famous	(adj) [ˈfeɪməs] nổi tiếng, nổi tiếng
+fan	(n) [fæn] quạt, người hâm mộ
+fantastic	(adj) [fænˈtæstɪk] tuyệt vời, tuyệt vời
+far	(adv) [fɑː(r)] xa, xa
+farm	(n) [fɑː(r)m] trang trại, trang trại
+farmer	(n) [ˈfɑː(r)mə(r)] nông dân, nông dân
+fashion	(n) [ˈfæʃən] thời trang, mốt
+fast	(adj) [fæst] nhanh, nhanh chóng
+fat	(adj) [fæt] béo, mập
+father	(n) [ˈfɑːðə(r)] cha, cha
+fault	(n) [fɔːlt] lỗi, sai lầm
+favor	(n) [ˈfeɪvə(r)] ơn, ân huệ
+favorite	(adj) [ˈfeɪvərɪt] ưa thích, yêu thích
+fear	(n) [fɪə(r)] sợ hãi, nỗi sợ hãi
+feature	(n) [ˈfiːtʃə(r)] đặc điểm, tính năng
+federal	(adj) [ˈfedərəl] liên bang, liên bang
+fee	(n) [fiː] phí, tiền
+feed	(v) [fiːd] cho ăn, nuôi
+feel	(v) [fiːl] cảm thấy, cảm giác
+feeling	(n) [ˈfiːlɪŋ] cảm giác, cảm xúc
+fellow	(n) [ˈfeləʊ] bạn đồng nghiệp, đồng nghiệp
+female	(adj) [ˈfiːmeɪl] nữ, cái
+fence	(n) [fens] hàng rào, hàng rào
+festival	(n) [ˈfestɪvəl] lễ hội, lễ hội
+fetch	(v) [fetʃ] đưa, mang
+few	(adj) [fjuː] vài, một vài
+fiber	(n) [ˈfaɪbə(r)] sợi, sợi
+fiction	(n) [ˈfɪkʃn] hư cấu, tiểu thuyết
+field	(n) [fiːld] lĩnh vực, đồng cỏ
+fifteen	(num) [ˌfɪfˈtiːn] mười lăm, mười lăm
+fifth	(num) [fɪfθ] thứ năm, thứ năm
+fifty	(num) [ˈfɪfti] năm mươi, năm mươi
+fight	(v) [faɪt] chiến đấu, đấu tranh
+figure	(n) [ˈfɪɡə(r)] hình dáng, hình ảnh
+file	(n) [faɪl] tập tin, tệp
+fill	(v) [fɪl] lấp đầy, điền vào
+film	(n) [fɪlm] phim, bộ phim
+final	(adj) [ˈfaɪnl] cuối cùng, cuối cùng
+finally	(adv) [ˈfaɪnəli] cuối cùng, cuối cùng
+finance	(n) [ˈfaɪnæns] tài chính, tài chính
+financial	(adj) [faɪˈnænʃl] tài chính, tài chính
+find	(v) [faɪnd] tìm thấy, tìm kiếm
+finding	(n) [ˈfaɪndɪŋ] phát hiện, kết quả
+fine	(adj) [faɪn] tốt, tốt
+finger	(n) [ˈfɪŋɡə(r)] ngón tay, ngón tay
+finish	(v) [ˈfɪnɪʃ] kết thúc, hoàn thành
+fire	(n) [faɪə(r)] lửa, hỏa
+firm	(adj) [fɜː(r)m] vững chắc, cố định
+first	(adj) [fɜː(r)st] đầu tiên, đầu tiên
+fish	(n) [fɪʃ] cá, cá
+fishing	(n) [ˈfɪʃɪŋ] câu cá, việc câu cá
+fit	(adj) [fɪt] phù hợp, vừa vặn
+five	(num) [faɪv] năm, năm
+fix	(v) [fɪks] sửa chữa, sửa lại
+flag	(n) [flæɡ] cờ, lá cờ
+flame	(n) [fleɪm] ngọn lửa, lửa
+flash	(v) [flæʃ] nhấp nháy, sáng chói
+flat	(adj) [flæt] phẳng, bằng phẳng
+flavor	(n) [ˈfleɪvə(r)] hương vị, vị
+flee	(v) [fliː] chạy trốn, bỏ chạy
+flesh	(n) [fleʃ] thịt, thịt
+flight	(n) [flaɪt] chuyến bay, chuyến đi
+float	(v) [fləʊt] nổi, lơ lửng
+flood	(n) [flʌd] lũ lụt, lũ lụt
+floor	(n) [flɔː(r)] sàn, tầng
+flow	(v) [fləʊ] chảy, dòng chảy
+flower	(n) [ˈflaʊə(r)] hoa, bông hoa
+fly	(v) [flaɪ] bay, đi
+focus	(n) [ˈfəʊkəs] tập trung, trọng tâm
+fold	(v) [fəʊld] gấp, gấp lại
+folk	(n) [fəʊk] nhân dân, dân gian
+follow	(v) [ˈfɒləʊ] theo, tiếp theo
+following	(adj) [ˈfɒləʊɪŋ] sau đó, theo sau
+food	(n) [fuːd] thức ăn, thức ăn
+foot	(n) [fʊt] chân, chân
+football	(n) [ˈfʊtbɔːl] bóng đá, bóng đá
+for	(pre) [fɔː(r)] cho, vì
+force	(n) [fɔː(r)s] lực, sức mạnh
+foreign	(adj) [ˈfɒrən] nước ngoài, nước ngoài
+forest	(n) [ˈfɒrɪst] rừng, khu rừng
+forever	(adv) [fəˈrevə(r)] mãi mãi, vĩnh viễn
+forget	(v) [fəˈɡet] quên, quên
+forgive	(v) [fəˈɡɪv] tha thứ, ân xá
+fork	(n) [fɔː(r)k] cái nĩa, cái dĩa
+form	(n) [fɔː(r)m] hình thức, hình thức
+formal	(adj) [ˈfɔː(r)məl] chính thức, chính thức
+formation	(n) [fɔː(r)ˈmeɪʃn] hình thành, sự hình thành
+former	(adj) [ˈfɔː(r)mə(r)] cũ, cũ
+formula	(n) [ˈfɔː(r)mjʊlə] công thức, công thức
+forth	(adv) [fɔː(r)θ] đi ra, tiếp tục
+fortune	(n) [ˈfɔː(r)tʃuːn] vận may, tài lộc
+forward	(adv) [ˈfɔː(r)wə(r)d] về phía trước, về phía trước
+foundation	(n) [faʊnˈdeɪʃn] quỹ, quỹ
+frame	(n) [freɪm] khung, khung
+framework	(n) [ˈfreɪmwɜː(r)k] khuôn khổ, khung cảnh
+frank	(adj) [fræŋk] trung thực, thành thật
+freedom	(n) [ˈfriːdəm] tự do, tự do
+freeze	(v) [friːz] đóng băng, đông lại
+French	(adj) [frentʃ] người Pháp, ngôn ngữ Pháp
+frequency	(n) [ˈfriːkwənsi] tần số, tần số
+frequent	(adj) [ˈfriːkwənt] thường xuyên, thường xuyên
+frequently	(adv) [ˈfriːkwəntli] thường xuyên, thường xuyên
+fresh	(adj) [freʃ] tươi mới, mới
+Friday	(n) [ˈfraɪdeɪ] thứ Sáu, thứ Sáu
+friend	(n) [frend] bạn bè, bạn bè
+friendly	(adj) [ˈfrendli] thân thiện, thân thiện
+friendship	(n) [ˈfrendʃɪp] tình bạn, tình bạn
+from	(pre) [frɒm] từ, từ
+front	(n) [frʌnt] phía trước, phía trước
+fruit	(n) [fruːt] trái cây, hoa quả
+frustrate	(v) [frʌˈstreɪt] làm thất vọng, làm thất vọng
+frustrated	(adj) [frʌˈstreɪtɪd] thất vọng, thất vọng
+frustrating	(adj) [frʌˈstreɪtɪŋ] làm thất vọng, gây thất vọng
+frustration	(n) [frʌˈstreɪʃn] sự thất vọng, sự thất vọng
+fuel	(n) [fjuːəl] nhiên liệu, nhiên liệu
+full	(adj) [fʊl] đầy, đầy đủ
+fully	(adv) [ˈfʊli] hoàn toàn, hoàn toàn
+fun	(n) [fʌn] vui vẻ, niềm vui
+function	(n) [ˈfʌŋkʃn] chức năng, chức năng
+fund	(n) [fʌnd] quỹ, quỹ
+fundamental	(adj) [ˌfʌndəˈmentl] cơ bản, cơ bản
+funeral	(n) [ˈfjuːnərəl] đám tang, đám tang
+funny	(adj) [ˈfʌni] buồn cười, hài hước
+furniture	(n) [ˈfɜːnɪtʃə(r)] đồ đạc, đồ đạc
+further	(adv) [ˈfɜːðə(r)] xa hơn, tiếp theo
+future	(n) [ˈfjuːtʃə(r)] tương lai, tương lai
+gain	(v) [ɡeɪn] đạt được, thu được
+galaxy	(n) [ˈɡæləksi] dải ngân hà, thiên hà
+gallery	(n) [ˈɡæləri] phòng trưng bày, phòng trưng bày
+game	(n) [ɡeɪm] trò chơi, trò chơi
+gang	(n) [ɡæŋ] băng nhóm, nhóm
+gap	(n) [ɡæp] khoảng cách, khe hở
+garage	(n) [ˈɡærɑːʒ] nhà để xe, nhà gara
+garden	(n) [ˈɡɑːrdn] vườn, vườn
+garlic	(n) [ˈɡɑːrlɪk] tỏi, tỏi
+gas	(n) [ɡæs] khí, khí
+gate	(n) [ɡeɪt] cổng, cửa
+gather	(v) [ˈɡæðə(r)] tập hợp, thu thập
+gay	(adj) [ɡeɪ] đồng tính, đồng tính
+gear	(n) [ɡɪə(r)] bánh răng, bánh răng
+gender	(n) [ˈdʒendə(r)] giới tính, giới tính
+gene	(n) [dʒiːn] gen, gen
+general	(adj) [ˈdʒenərəl] tổng quát, chung
+generally	(adv) [ˈdʒenərəli] nói chung, thông thường
+generate	(v) [ˈdʒenəreɪt] tạo ra, sinh ra
+generation	(n) [ˌdʒenəˈreɪʃn] thế hệ, thế hệ
+generator	(n) [ˈdʒenəreɪtə(r)] máy phát điện, máy phát điện
+genetic	(adj) [dʒəˈnetɪk] di truyền, di truyền
+gentle	(adj) [ˈdʒentl] nhẹ nhàng, nhẹ nhàng
+gently	(adv) [ˈdʒentli] nhẹ nhàng, nhẹ nhàng
+genuine	(adj) [ˈdʒenjuɪn] chính hãng, thực sự
+geography	(n) [dʒiˈɒɡrəfi] địa lý, địa lý
+gesture	(n) [ˈdʒestʃə(r)] cử chỉ, điệu bộ
+get	(v) [ɡet] nhận được, lấy được
+ghost	(n) [ɡəʊst] ma, hồn ma
+giant	(n) [ˈdʒaɪənt] người khổng lồ, khổng lồ
+gift	(n) [ɡɪft] món quà, món quà
+girl	(n) [ɡɜːrl] cô gái, con gái
+give	(v) [ɡɪv] cho, đưa
+glad	(adj) [ɡlæd] vui, hạnh phúc
+glass	(n) [ɡlɑːs] ly, cốc
+global	(adj) [ˈɡləʊbl] toàn cầu, toàn cầu
+glove	(n) [ɡlʌv] găng tay, găng tay
+go	(v) [ɡəʊ] đi, đi
+goal	(n) [ɡəʊl] mục tiêu, bàn thắng
+god	(n) [ɡɒd] thần, đức Chúa Trời
+gold	(n) [ɡəʊld] vàng, vàng
+golden	(adj) [ˈɡəʊldən] vàng, màu vàng
+golf	(n) [ɡɒlf] golf, golf
+good	(adj) [ɡʊd] tốt, tốt
+government	(n) [ˈɡʌvə(r)mənt] chính phủ, chính phủ
+governor	(n) [ˈɡʌvə(r)nə(r)] thống đốc, thống đốc
+grab	(v) [ɡræb] nắm, túm
+grade	(n) [ɡreɪd] lớp, cấp
+gradually	(adv) [ˈɡrædʒuəli] dần dần, từ từ
+grain	(n) [ɡreɪn] hạt, hạt
+grand	(adj) [ɡrænd] lớn, tráng lệ
+grandfather	(n) [ˈɡrændˌfɑːðə(r)] ông, ông
+grandmother	(n) [ˈɡrændˌmʌðə(r)] bà, bà
+grant	(n) [ɡrɑːnt] học bổng, khen thưởng
+grass	(n) [ɡrɑːs] cỏ, cỏ
+grateful	(adj) [ˈɡreɪtfəl] biết ơn, biết ơn
+grave	(n) [ɡreɪv] mộ, mộ
+great	(adj) [ɡreɪt] tuyệt vời, lớn
+green	(adj) [ɡriːn] màu xanh lá cây, màu xanh lá cây
+greet	(v) [ɡriːt] chào hỏi, gặp
+grey	(adj) [ɡreɪ] màu xám, màu xám
+grid	(n) [ɡrɪd] lưới, lưới
+grief	(n) [ɡriːf] nỗi đau buồn, sự đau buồn
+grind	(v) [ɡraɪnd] nghiền, xay
+grip	(v) [ɡrɪp] nắm chặt, cầm chặt
+grocery	(n) [ˈɡrəʊsəri] cửa hàng tạp hóa, hàng tạp hóa
+gross	(adj) [ɡrəʊs] tổng cộng, tổng cộng
+ground	(n) [ɡraʊnd] đất, mặt đất
+group	(n) [ɡruːp] nhóm, nhóm
+grow	(v) [ɡrəʊ] phát triển, mọc
+growth	(n) [ɡrəʊθ] sự phát triển, tăng trưởng
+guarantee	(n) [ˌɡærənˈtiː] bảo đảm, đảm bảo
+guard	(n) [ɡɑːrd] người bảo vệ, bảo vệ
+guess	(v) [ɡes] đoán, phỏng đoán
+guest	(n) [ɡest] khách, khách mời
+guidance	(n) [ˈɡaɪdəns] sự hướng dẫn, sự hướng dẫn
+guide	(n) [ɡaɪd] hướng dẫn, hướng dẫn
+guideline	(n) [ˈɡaɪdlaɪn] nguyên tắc hướng dẫn, hướng dẫn
+guilty	(adj) [ˈɡɪlti] có tội, có tội
+gun	(n) [ɡʌn] súng, súng
+guy	(n) [ɡaɪ] chàng trai, anh chàng
+habit	(n) [ˈhæbɪt] thói quen, thói quen
+hair	(n) [heə(r)] tóc, tóc
+half	(n) [hɑːf] một nửa, một nửa
+hall	(n) [hɔːl] hội trường, đại sảnh
+hand	(n) [hænd] bàn tay, tay
+handle	(v) [ˈhændl] xử lý, cầm
+hang	(v) [hæŋ] treo, mắc
+happen	(v) [ˈhæpən] xảy ra, diễn ra
+happy	(adj) [ˈhæpi] hạnh phúc, vui vẻ
+hard	(adj) [hɑːd] khó khăn, khó khăn
+hardly	(adv) [ˈhɑːdli] hầu như không, hầu như không
+harm	(n) [hɑːm] tổn hại, sự tổn hại
+harmful	(adj) [ˈhɑːmfəl] có hại, gây hại
+harmony	(n) [ˈhɑːməni] hòa thuận, sự hòa hợp
+hat	(n) [hæt] mũ, mũ
+hate	(v) [heɪt] ghét, căm ghét
+have	(v) [hæv] có, sở hữu
+he	(pro) [hiː] anh ấy, ông ấy
+head	(n) [hed] đầu, phần đầu
+headquarters	(n) [ˌhedˈkwɔːtəz] trụ sở, trụ sở
+heal	(v) [hiːl] chữa lành, làm lành
+health	(n) [helθ] sức khỏe, sức khỏe
+healthy	(adj) [ˈhelθi] khỏe mạnh, lành mạnh
+hear	(v) [hɪə(r)] nghe, lắng nghe
+hearing	(n) [ˈhɪərɪŋ] thính giác, khả năng nghe
+heart	(n) [hɑːt] trái tim, tim
+heat	(n) [hiːt] nhiệt độ, nhiệt
+heaven	(n) [ˈhevən] thiên đàng, thiên đường
+heavily	(adv) [ˈhevɪli] nặng nề, nặng nề
+heavy	(adj) [ˈhevi] nặng, nặng nề
+heel	(n) [hiːl] gót chân, gót chân
+height	(n) [haɪt] chiều cao, độ cao
+hello	(int) [həˈləʊ] xin chào, chào
+help	(v) [help] giúp đỡ, giúp đỡ
+helpful	(adj) [ˈhelpfəl] có ích, hữu ích
+hence	(adv) [hens] vì thế, do đó
+her	(pro) [hɜː(r)] của cô ấy, của bà ấy
+here	(adv) [hɪə(r)] ở đây, đây
+heritage	(n) [ˈherɪtɪdʒ] di sản, di sản
+hero	(n) [ˈhɪərəʊ] anh hùng, anh hùng
+hers	(pro) [hɜː(r)z] của cô ấy, của bà ấy
+herself	(pro) [hɜː(r)ˈself] bản thân cô ấy, bản thân bà ấy
+hesitate	(v) [ˈhezɪteɪt] ngần ngại, do dự
+hidden	(adj) [ˈhɪdn] ẩn, ẩn
+hide	(v) [haɪd] trốn, giấu
+high	(adj) [haɪ] cao, cao
+highlight	(v) [ˈhaɪlaɪt] làm nổi bật, làm nổi bật
+highly	(adv) [ˈhaɪli] rất, rất
+highway	(n) [ˈhaɪweɪ] xa lộ, đường cao tốc
+hill	(n) [hɪl] đồi, đồi
+him	(pro) [hɪm] anh ấy, ông ấy
+himself	(pro) [hɪmˈself] bản thân anh ấy, bản thân ông ấy
+hip	(n) [hɪp] hông, hông
+hire	(v) [haɪə(r)] thuê, thuê
+his	(pro) [hɪz] của anh ấy, của ông ấy
+historian	(n) [hɪˈstɔːriən] nhà sử học, nhà sử học
+historic	(adj) [hɪˈstɒrɪk] lịch sử, lịch sử
+historical	(adj) [hɪˈstɒrɪkl] lịch sử, lịch sử
+history	(n) [ˈhɪstəri] lịch sử, lịch sử
+hit	(v) [hɪt] đánh, đánh
+hold	(v) [həʊld] cầm, giữ
+hole	(n) [həʊl] lỗ, lỗ
+holiday	(n) [ˈhɒlɪdeɪ] ngày lễ, ngày lễ
+holy	(adj) [ˈhəʊli] thánh, thánh
+home	(n) [həʊm] nhà, nhà
+homework	(n) [ˈhəʊmwɜːk] bài tập về nhà, bài tập về nhà
+honest	(adj) [ˈɒnɪst] trung thực, trung thực
+honestly	(adv) [ˈɒnɪstli] trung thực, trung thực
+honey	(n) [ˈhʌni] mật ong, mật ong
+honor	(n) [ˈɒnə(r)] vinh dự, danh dự
+hope	(n) [həʊp] hy vọng, hy vọng
+hopeful	(adj) [ˈhəʊpfəl] hy vọng, đầy hy vọng
+hopefully	(adv) [ˈhəʊpfəli] hy vọng, hi vọng
+horizon	(n) [həˈraɪzn] chân trời, đường chân trời
+horizontal	(adj) [ˌhɒrɪˈzɒntl] ngang, ngang
+horse	(n) [hɔːs] ngựa, con ngựa
+hospital	(n) [ˈhɒspɪtl] bệnh viện, bệnh viện
+host	(n) [həʊst] chủ nhà, người chủ trì
+hot	(adj) [hɒt] nóng, nóng
+hotel	(n) [həʊˈtel] khách sạn, khách sạn
+hour	(n) [aʊə(r)] giờ, giờ
+house	(n) [haʊs] nhà, ngôi nhà
+household	(n) [ˈhaʊshəʊld] hộ gia đình, hộ gia đình
+housing	(n) [ˈhaʊzɪŋ] nhà ở, nhà ở
+how	(adv) [haʊ] như thế nào, như thế nào
+however	(adv) [haʊˈevə(r)] tuy nhiên, tuy nhiên
+huge	(adj) [hjuːdʒ] to lớn, lớn
+human	(adj) [ˈhjuːmən] con người, loài người
+humorous	(adj) [ˈhjuːmərəs] hài hước, hóm hỉnh
+hundred	(num) [ˈhʌndrəd] trăm, trăm
+hungry	(adj) [ˈhʌŋɡri] đói, đói
+hunt	(v) [hʌnt] săn, săn bắn
+hurry	(v) [ˈhʌri] vội vàng, vội vàng
+hurt	(v) [hɜːt] làm tổn thương, làm đau
+husband	(n) [ˈhʌzbənd] chồng, chồng
+hypothesis	(n) [haɪˈpɒθəsɪs] giả thuyết, giả thuyết
+ice	(n) [aɪs] đá, băng
+idea	(n) [aɪˈdɪə(r)] ý tưởng, ý kiến
+identify	(v) [aɪˈdentɪfaɪ] nhận dạng, xác định
+identity	(n) [aɪˈdentɪti] bản thân, danh tính
+ideological	(adj) [ˌaɪdiəˈlɒdʒɪkl] theo chủ nghĩa, theo lý luận
+if	(conj) [ɪf] nếu, nếu
+ignore	(v) [ɪɡˈnɔː(r)] phớt lờ, bỏ qua
+ill	(adj) [ɪl] ốm, bệnh
+illegal	(adj) [ɪˈliːɡəl] bất hợp pháp, trái phép
+illness	(n) [ˈɪlnəs] bệnh, sự ốm đau
+illustrate	(v) [ˈɪləstreɪt] minh họa, làm rõ
+image	(n) [ˈɪmɪdʒ] hình ảnh, hình ảnh
+imagination	(n) [ɪˌmædʒɪˈneɪʃn] trí tưởng tượng, sự tưởng tượng
+imagine	(v) [ɪˈmædʒɪn] tưởng tượng, mường tượng
+immediate	(adj) [ɪˈmiːdiət] ngay lập tức, ngay lập tức
+immediately	(adv) [ɪˈmiːdiətli] ngay lập tức, ngay lập tức
+immigrant	(n) [ˈɪmɪɡrənt] người nhập cư, người nhập cư
+immigration	(n) [ˌɪmɪˈɡreɪʃn] nhập cư, nhập cư
+impact	(n) [ˈɪmpækt] tác động, ảnh hưởng
+implement	(v) [ˈɪmplɪment] thực hiện, thi hành
+implication	(n) [ˌɪmplɪˈkeɪʃn] hàm ý, sự ngụ ý
+imply	(v) [ɪmˈplaɪ] ám chỉ, ngụ ý
+import	(v) [ɪmˈpɔːt] nhập khẩu, nhập khẩu
+importance	(n) [ɪmˈpɔːtəns] quan trọng, sự quan trọng
+important	(adj) [ɪmˈpɔːtnt] quan trọng, quan trọng
+impose	(v) [ɪmˈpəʊz] áp đặt, đặt ra
+impossible	(adj) [ɪmˈpɒsəbl] không thể, không thể
+
