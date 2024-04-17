@@ -24,7 +24,7 @@ public class MyDictionary {
             String target = "";
             String explain = "";
             for (int i = 0; i < line.length(); i++) {
-                if (line.charAt(i) == ' ') {
+                if (line.charAt(i) == '\t') {
                     target = line.substring(0, i).trim();
                     explain = line.substring(i + 1).trim();
                     break;
