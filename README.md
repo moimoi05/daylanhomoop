@@ -9,14 +9,15 @@ Nguyen Dinh Quyen - 23020422.
 📚 Vietnamese-English dictionary
 ❤️ This is my Java project at UET, including the following main functions:
 
-Translate English into Vietnamese
-Like/Dislike the word to add/remove it from the list of favorite words
+Translate English into Vietnamese.
+
+Add/Remove words from the list of favorite words.
+
+An interesting Letter Arrangement Game.
 
 ❤️ And some extended functions:
 
 Supports suggestions for words closest to the word to look up when misspelled
-
-Export/Import private dictionary (the system has default dictionary data available to read from XML files)
 
 Paragraph translation API
 
