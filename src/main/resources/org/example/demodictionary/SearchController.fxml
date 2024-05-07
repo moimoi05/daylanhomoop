@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.web.WebView?>
+
+<AnchorPane fx:id="searchView" prefHeight="600.0" prefWidth="900.0" style="-fx-background-color: #e2f1ff;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.controllers.SearchController">
+   <children>
+      <AnchorPane prefHeight="550.0" prefWidth="259.0">
+         <children>
+            <VBox layoutX="22.0" layoutY="83.0" prefHeight="461.0" prefWidth="223.0">
+               <children>
+                  <HBox prefHeight="43.0" prefWidth="223.0">
+                     <children>
+                        <TextField fx:id="textField" onKeyReleased="#searchWord" prefHeight="237.0" prefWidth="185.0" promptText="Search" />
+                        <Button mnemonicParsing="false" onAction="#clearInput" prefHeight="46.0" prefWidth="41.0" text="X" textFill="#008cff">
+                           <font>
+                              <Font name="Consolas" size="24.0" />
+                           </font></Button>
+                     </children>
+                  </HBox>
+                  <ListView fx:id="listView" prefHeight="390.0" prefWidth="223.0" />
+               </children>
+            </VBox>
+         </children>
+      </AnchorPane>
+      <WebView fx:id="web" layoutX="250.0" layoutY="126.0" prefHeight="390.0" prefWidth="630.0" />
+      <Button layoutX="828.0" layoutY="134.0" mnemonicParsing="false" onAction="#handleClickSound1Btn" prefHeight="44.0" prefWidth="41.0">
+         <graphic>
+            <ImageView fitHeight="32.0" fitWidth="28.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../speaker%20(3).png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Button fx:id="back" layoutX="839.0" layoutY="14.0" mnemonicParsing="false" onAction="#onBackButton" prefHeight="58.0" prefWidth="48.0" style="-fx-background-color: #afd8ff;" text="&lt;-- Back" textFill="#0057ff" wrapText="true">
+         <font>
+            <Font name="Consolas" size="12.0" />
+         </font></Button>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="57.0" layoutX="14.0" layoutY="14.0" stroke="#7cc9ff" strokeType="INSIDE" strokeWidth="0.0" width="630.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="57.0" layoutX="256.0" layoutY="529.0" stroke="#7cc9ff" strokeType="INSIDE" strokeWidth="0.0" width="630.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#86c4ff" height="44.0" layoutX="657.0" layoutY="27.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#86c4ff" height="44.0" layoutX="198.0" layoutY="542.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#afd8ff" height="25.0" layoutX="710.0" layoutY="43.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="26.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#afd8ff" height="25.0" layoutX="165.0" layoutY="557.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="26.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d4e5f4" height="16.0" layoutX="745.0" layoutY="41.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="15.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d4e5f4" height="16.0" layoutX="138.0" layoutY="554.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="15.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#afd8ff" height="57.0" layoutX="20.0" layoutY="528.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="41.0" />
+      <Text fill="#086eff" layoutX="28.0" layoutY="546.0" strokeType="OUTSIDE" strokeWidth="0.0" text="(c) 2 0 2 4" wrappingWidth="25.999999999999886">
+         <font>
+            <Font name="Consolas" size="12.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="28.0" layoutY="51.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LOOK UP">
+         <font>
+            <Font name="Consolas Bold" size="36.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="657.0" layoutY="570.0" strokeType="OUTSIDE" strokeWidth="0.0" text="TRA TỪ ĐIỂN">
+         <font>
+            <Font name="Consolas Bold" size="36.0" />
+         </font>
+      </Text>
+      <Button fx:id="addSearch" layoutX="826.0" layoutY="86.0" mnemonicParsing="false" onAction="#onAdd">
+         <graphic>
+            <ImageView fitHeight="32.0" fitWidth="33.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../add.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+   </children>
+</AnchorPane>

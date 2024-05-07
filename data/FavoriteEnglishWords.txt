@@ -1,0 +1,4 @@
+-way	cách
+hello	xin chao
+hi	xin chào
+s	chữ s

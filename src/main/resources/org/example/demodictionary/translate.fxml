@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="translateView" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="896.0" style="-fx-background-color: #e2f1ff;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.controllers.ggTranslate">
+   <children>
+      <HBox layoutX="23.0" layoutY="77.0" prefHeight="445.0" prefWidth="850.0">
+         <children>
+            <TextArea fx:id="textArea1" prefHeight="445.0" prefWidth="383.0">
+               <font>
+                  <Font name="Consolas" size="16.0" />
+               </font></TextArea>
+            <VBox prefHeight="445.0" prefWidth="97.0">
+               <children>
+                  <AnchorPane prefHeight="445.0" prefWidth="103.0" style="-fx-background-color: #e2f1ff;">
+                     <children>
+                        <Button fx:id="Tsl" layoutY="168.0" mnemonicParsing="false" onAction="#Hanbutton" prefHeight="75.0" prefWidth="115.0" style="-fx-background-color: #74bcff;" text="Translate" textFill="#0026ff" wrapText="true">
+                           <font>
+                              <Font name="Consolas" size="18.0" />
+                           </font></Button>
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#a4d5ff" height="41.0" layoutX="41.0" layoutY="117.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="41.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#a4d5ff" height="41.0" layoutX="14.0" layoutY="289.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="41.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9bd0ff" height="18.0" layoutX="47.0" layoutY="91.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="18.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9bd0ff" height="18.0" layoutX="32.0" layoutY="339.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="18.0" />
+                        <Text fill="#0066ff" layoutX="7.0" layoutY="16.0" strokeType="OUTSIDE" strokeWidth="0.0" text="&lt;-- English" wrappingWidth="67.33333333333348">
+                           <font>
+                              <Font name="Consolas" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fill="#0066ff" layoutX="37.0" layoutY="431.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Vietnamese" wrappingWidth="67.33333333333348">
+                           <font>
+                              <Font name="Consolas" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fill="#0066ff" layoutX="70.0" layoutY="418.0" strokeType="OUTSIDE" strokeWidth="0.0" text="--&gt;" wrappingWidth="24.298213958740234">
+                           <font>
+                              <Font name="Consolas" size="12.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </VBox>
+            <TextArea fx:id="textArea2" prefHeight="449.0" prefWidth="369.0">
+               <font>
+                  <Font name="Consolas" size="16.0" />
+               </font></TextArea>
+         </children>
+      </HBox>
+      <Button fx:id="backButton" layoutX="816.0" layoutY="14.0" mnemonicParsing="false" onAction="#onBackButton" prefHeight="53.0" prefWidth="56.0" style="-fx-background-color: #9bd0ff;" text="&lt;-- Trở về" textFill="#0072ff" wrapText="true">
+         <font>
+            <Font name="Consolas" size="12.0" />
+         </font>
+      </Button>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="53.0" layoutX="14.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="563.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="53.0" layoutX="319.0" layoutY="533.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="563.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#74bcff" height="41.0" layoutX="587.0" layoutY="26.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="41.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#74bcff" height="41.0" layoutX="268.0" layoutY="545.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="41.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9bd0ff" height="18.0" layoutX="636.0" layoutY="47.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="18.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9bd0ff" height="18.0" layoutX="242.0" layoutY="566.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="18.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d2eaff" height="18.0" layoutX="654.0" layoutY="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="18.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d2eaff" height="18.0" layoutX="224.0" layoutY="536.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="18.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9bd0ff" height="53.0" layoutX="23.0" layoutY="532.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="56.0" />
+      <Text fill="#0066ff" layoutX="36.0" layoutY="555.0" strokeType="OUTSIDE" strokeWidth="0.0" text="(c)  2024" wrappingWidth="30.964839935302734">
+         <font>
+            <Font name="Consolas" size="12.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="23.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="TRANSLATE" wrappingWidth="178.13671875">
+         <font>
+            <Font name="Consolas Bold" size="36.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="569.0" layoutY="574.0" strokeType="OUTSIDE" strokeWidth="0.0" text="TRÌNH BIÊN DỊCH" wrappingWidth="303.4700927734375">
+         <font>
+            <Font name="Consolas Bold" size="36.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

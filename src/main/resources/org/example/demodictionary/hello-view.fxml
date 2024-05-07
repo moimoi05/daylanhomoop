@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="mainMenu" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" style="-fx-background-color: #F5F5F5;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.controllers.HelloController">
+   <children>
+      <Button fx:id="lookUpButton" layoutX="150.0" layoutY="125.0" mnemonicParsing="false" onAction="#onLookUpButton" prefHeight="162.0" prefWidth="285.0" style="-fx-background-color: #a8d3fb;" text="LOOK UP" textFill="#003577">
+         <font>
+            <Font name="Consolas Bold Italic" size="18.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="150.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../search.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Button fx:id="translateView" layoutX="150.0" layoutY="313.0" mnemonicParsing="false" onAction="#onTranslateButton" prefHeight="162.0" prefWidth="285.0" style="-fx-background-color: #a8d3fb;" text="TRANSLATE" textFill="#003577">
+         <font>
+            <Font name="Consolas Bold Italic" size="18.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="150.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../website.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Button fx:id="gameButton" layoutX="462.0" layoutY="313.0" mnemonicParsing="false" onAction="#onGameButton" prefHeight="162.0" prefWidth="285.0" style="-fx-background-color: #a8d3fb;" text="GAME" textFill="#003577">
+         <font>
+            <Font name="Consolas Bold Italic" size="18.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="150.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../game.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Button fx:id="noteButton" layoutX="462.0" layoutY="125.0" mnemonicParsing="false" onAction="#onNoteButton" prefHeight="162.0" prefWidth="285.0" style="-fx-background-color: #a8d3fb;" text="NOTE" textFill="#003577">
+         <font>
+            <Font name="Consolas Bold Italic" size="18.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="150.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../notes.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="52.0" layoutX="14.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="598.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="52.0" layoutX="285.0" layoutY="534.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="598.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="105.0" layoutX="14.0" layoutY="481.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="109.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#82c3ff" height="52.0" layoutX="134.0" layoutY="534.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="53.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#5fb4ff" height="30.0" layoutX="134.0" layoutY="492.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="31.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="42.0" layoutX="14.0" layoutY="433.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="42.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#3f9bf2" height="21.0" layoutX="69.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="21.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#a8d3fb" height="21.0" layoutX="198.0" layoutY="565.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="21.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="105.0" layoutX="774.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="109.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#82c3ff" height="52.0" layoutX="710.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="53.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#5fb4ff" height="30.0" layoutX="732.0" layoutY="79.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="31.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="42.0" layoutX="841.0" layoutY="129.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="42.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#3f9bf2" height="21.0" layoutX="807.0" layoutY="129.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="21.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#a8d3fb" height="21.0" layoutX="678.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="21.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#82c3ff" height="52.0" layoutX="826.0" layoutY="475.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="53.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#82c3ff" height="52.0" layoutX="18.0" layoutY="73.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="53.0" />
+      <Text fill="WHITE" layoutX="34.0" layoutY="51.0" strokeType="OUTSIDE" strokeWidth="0.0" text="MAIN MENU">
+         <font>
+            <Font name="Consolas Bold" size="36.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="491.0" layoutY="555.0" strokeType="OUTSIDE" strokeWidth="0.0" text="(c) 2024 dayLaNhomOOPTeam" wrappingWidth="198.26754760742188">
+         <font>
+            <Font name="Consolas Italic" size="14.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="363.0" layoutY="578.0" strokeType="OUTSIDE" strokeWidth="0.0" text="( Nguyễn Phương Nam / Trần Doãn Thắng / Nguyễn Đình Quyền )">
+         <font>
+            <Font name="Consolas" size="14.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
