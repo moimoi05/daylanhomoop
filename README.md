@@ -20,11 +20,11 @@ An interesting Letter Arrangement Game.
 
 ❤️ And some extended functions:
 
-Supports suggestions for words closest to the word to look up when misspelled
+Supports suggestions for words closest to the word to look up when misspelled.
 
-Paragraph translation API
+Paragraph translation API.
 
-Pronunciation API
+Pronunciation API.
 
 \*NOTE:
 Need to add the following libraries to your computer:
