@@ -9,6 +9,7 @@ Tran Doan Thang - 23020438.
 Nguyen Dinh Quyen - 23020422.
 
 📚 Vietnamese-English dictionary
+
 ❤️ This is my Java project at UET, including the following main functions:
 
 Translate English into Vietnamese.
