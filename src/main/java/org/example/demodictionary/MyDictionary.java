@@ -12,7 +12,7 @@ import java.util.TreeMap;
 public class MyDictionary {
     private TreeMap<String, Word> dictionary = new TreeMap<>();
     public static final String filePathE_V = "D:\\javacode\\demoDictionary\\data\\E_V.txt";
-    public static final String filePathDictionaries = "D:\\gitproject\\daylanhomoop\\demoDIC\\src\\main\\java\\org\\example\\demodic\\dictionaries.txt";
+    public static final String filePathDictionaries = "D:\\gitproject\\demoDictionary\\data\\dictionary.txt";
 
     // Constructor no longer throws IOException
     public MyDictionary() throws IOException {
