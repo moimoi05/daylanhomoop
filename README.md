@@ -33,3 +33,5 @@ Pronunciation API.
 \*NOTE:
 Need to add the following libraries to your computer:
 https://www.geeksforgeeks.org/converting-text-speech-java/
+![image](https://github.com/moimoi05/daylanhomoop/assets/161676141/6b60eb0c-c3d9-4249-91bc-22cc0212cc8b)
+
